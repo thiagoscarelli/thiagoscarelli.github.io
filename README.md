@@ -1,9 +1,3 @@
-# About me
-
-Ph.D Candidate at the Paris School of Economics under the supervision of David N. Margolis.
-
-I'm currently researching labor and development economics issues.
-
 # Contact
 
 <strong>Email:</strong> 
