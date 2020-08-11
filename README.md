@@ -1,2 +1,1 @@
-# thiagoscarelli.github.io
-Academic website
+My academic website
