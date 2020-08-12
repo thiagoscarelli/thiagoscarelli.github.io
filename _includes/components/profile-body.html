@@ -1,10 +1,17 @@
 <p class="card-text">
+
+    <!---
+    {{site.description}}
+    <hr>
+    --->
+
     {% for link in site.data.profile %}
-    <a href="{{link.href}}" class="d-flex align-items-center mb-1">
-        <span class="icon grey mr-2">
-            {% include {{link.icon}} %}
-        </span>
+    <p class="card-text">
+    <a href="{{link.href}}" class="d-flex justify-content-center align-items-center b-1">
+        <span class="icon grey mr-2">{% include {{link.icon}} %}</span>
         <span class="text-nowrap">{{link.caption}}</span>
     </a>
+    </p>
     {% endfor %}
+
 </p>

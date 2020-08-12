@@ -1,18 +1,5 @@
-# Friday Theme
+This is the GitHub repository for my website.
 
-## A Bootstrap 4 portfolio and blog theme for Jekyll
+Copyright notice: The website is built on the shoulders of the "Friday Theme" (https://sfreytag.github.io/friday-theme/), from Simon Freytag (simon@freytag.org.uk).
 
-* Example 1: This repo builds directly to GitHub pages, which is also the documentation:  https://sfreytag.github.io/friday-theme/
-* Example 2: my own homepage, http://www.freytag.org.uk
-
-## Get Started
-
-Follow the [install notes](https://sfreytag.github.io/friday-theme/projects/install.html).
-
-## Usage
-
-The theme is free to use, but if you do use it, it would be great to hear from you. Email simon@freytag.org.uk - thanks!
-
-## Jekyll Version
-
-__Watch out!__ This theme uses {{site.baseurl}} throughout, so is not currently suitable for Jekyll 4. It works well with 3.8.5 and works well with GitHub Pages.
+Note to self: send him a thank you note.

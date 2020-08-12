@@ -2,29 +2,22 @@
 layout: defaults/page
 permalink: index.html
 narrow: true
-title: Welcome to Friday Theme
+title: About me
 ---
 
-## What is it?
+I'm a Ph.D. student at Paris School of Economics (PSE).
 
-{% include components/intro.md %}
+My current research focuses on the occupational choices of workers under liquidity constraints in developing countries. [The most recent version of my working papers can be found here.]({{ site.baseurl}}{% link _pages/research.md %})
 
-[Here's the full feature list and some quick examples of what it can do.]({{ site.baseurl}}{% link _pages/about.md %})
-
-## How to use it
-
-This web site is the documentation for the theme and also provides examples of how you can use and modify it. TIt is built using Friday Theme directly from the [GitHub repo](https://github.com/sfreytag/friday-theme) and published to GitHub pages.
-
-[The documentation]({{ site.baseurl }}{% link list/projects.md %}) covers the basics of installing and using it, and is an example of how you could write documentation about your own projects.
-
-[The blog]({{ site.baseurl }}{% link list/posts.html %}) has a bunch of tips about how to use Friday Theme. These show how the blog works, including the tags. There's the three most-recent posts below included below.
+Comments and questions are welcome at thiago.scarelli [at] psemail.com.
 
 <hr />
 
-### Recent Posts
+<!---
+## Recent Posts
 
 {% for post in site.posts limit:3 %}
 {% include components/post-card.html %}
 {% endfor %}
 
-
+--->

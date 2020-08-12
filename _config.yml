@@ -10,6 +10,7 @@ excerpt_separator: <!--more-->
 title:            Thiago Scarelli            # Site title
 name:             Thiago Scarelli            # Your name
 avatar:           /theme/img/thiagoscarelli.png      # Path to an avatar image
+description:      I'm a Ph.D. student at Paris School of Economics (PSE). My current research focuses on the occupational choices of workers in developing countries. You can reach me at thiago.scarelli [at] psemail.com.
 
 # The theme uses the baseurl throughout, which is useful for running the entire
 # site under a subdir, like for this GitHub Pages deployment as a project site.
