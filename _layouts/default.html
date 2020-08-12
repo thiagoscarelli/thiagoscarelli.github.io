@@ -1,49 +1,56 @@
 <!DOCTYPE html>
-<html>
-    
-    <head>
-      <!-- Global site tag (gtag.js) - Google Analytics -->
-      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-175203179-1"></script>
-      <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        
-        gtag('config', 'UA-175203179-1');
-      </script>
-      
-      <meta charset="utf-8">
-      <meta name="viewport" width="device-width, initial-scale=1.0">
-      <meta name="description" content="{{ page.description }}">
-      <meta name="author" content="Thiago Scarelli">
-      
-      <title>{{ page.title }}</title>
-      <link rel="stylesheet" type="text/css" href="/css/style.css">
+<html lang="en">
 
-      <link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
-      <link rel="icon" href="/img/favicon.ico" type="image/x-icon">
-    
-    </head>
-    
-    <body>
-      
-      <header>
-        <nav>
-          <ul>
-            <li><a href="/">Home</a></li>
-            <li><a href="/research">Research</a></li>
-            <li><a href="/teaching">Teaching</a></li>
-            <li><a href="/blog">Blog</a></li>
-          </ul>
-        </nav>
-      </header>
+{% include structure/head.html %}
 
-      <div class="main">
-        {{ content }}
-      </div>
-      
-      <footer>
-      </footer>
-    
-    </body>
+<body>
+
+{% include bars/nav.html %}
+
+{% capture col1 %}{% if page.narrow %}3{% else %}4{% endif %}{% endcapture %}
+
+{% capture col2 %}{% if page.narrow %}9{% else %}8{% endif %}{% endcapture %}
+
+<div class="container site-container" id="top">
+    <div class="row">
+        <div class="d-none d-lg-block col-lg-4 col-xl-{{ col1 }} side">
+            {% include bars/side.html %}
+        </div>
+        <div class="col-md-12 col-lg-8 col-xl-{{ col2 }} pb-4 content">
+            {{ content }}
+        </div>
+        <div class="col-md-12 d-lg-none bottom">
+            {% include bars/bottom.html %}
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+/*!
+ * IE10 viewport hack for Surface/desktop Windows 8 bug
+ * Copyright 2014-2017 The Bootstrap Authors
+ * Copyright 2014-2017 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ */
+
+// See the Getting Started docs for more information:
+// https://getbootstrap.com/getting-started/#support-ie10-width
+
+(function () {
+    'use strict'
+
+    if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+        var msViewportStyle = document.createElement('style')
+        msViewportStyle.appendChild(
+            document.createTextNode(
+                '@-ms-viewport{width:auto!important}'
+            )
+        )
+        document.head.appendChild(msViewportStyle)
+    }
+}())
+</script>
+
+</body>
+
 </html>
