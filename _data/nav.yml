@@ -1,5 +1,3 @@
-- title: Home
-  href: index.html
 
 - title: Research
   href: research.html
@@ -7,8 +5,11 @@
 - title: Teaching
   href: teaching.html
 
-- title: CV
-  href: cv.html
+- title: Talks
+  href: talks.html
 
-- title: Posts
+- title: Blog
   href: list/posts.html
+
+- title: About
+  href: index.html
