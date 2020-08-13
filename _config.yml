@@ -19,56 +19,32 @@ mail:             thiago.scarelli [at] psemail.eu
 baseurl: ""
 
 # Add a directory to hold misc pages, just to keep the root directory clean.
-include: ["_pages", "_portfolio"]
+include: ["_pages"]
 
 # Wire in the SASS files in the theme directory.
 sass:
   sass_dir: theme/_sass
   style: compressed
 
-# Turn the projects into a collection.
-collections:
-  projects:
-    output: true
-    title: Projects
-    permalink: /:collection/:name.html
-  portfolio:
-    output: true
-    title: portfolio
-    permalink: /:collection/:name.html
-
+# Turn the profile sidebar off for all pages by default
 defaults:
-# Turn the profile sidebar on for all pages by default, except for the
-# collections, where it is off and replaced by useful things on the sidebar.
-# To override this one a page, use
-#    show_profile: false
-# to hide the profile.
   -
     scope:
       path: ""
     values:
-      show_profile: true
+      show_title: true
+      show_profile: false
   -
     scope:
       path: "_posts"
     values:
+      show_title: false
       show_profile: false
       layout: defaults/post
   -
     scope:
-      path: "_portfolio"
-    values:
-      show_profile: false
-      layout: defaults/portfolio
-  -
-    scope:
-      path: "_projects"
-    values:
-      show_profile: false
-      layout: defaults/project
-  -
-    scope:
       path: "list"
     values:
+      show_title: false
       show_profile: false
       layout: defaults/list

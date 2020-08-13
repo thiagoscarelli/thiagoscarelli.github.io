@@ -7,4 +7,6 @@ title: Teaching
 
 ## Title
 
-Body
+text
+
+<hr>

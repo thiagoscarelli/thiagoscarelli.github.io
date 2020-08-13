@@ -2,13 +2,12 @@
     <div class="card bg-light mb-3">
         <div class="card-body">
 
-
             <div class="d-flex flex-wrap align-items-center">
 
                 {% for tag in page.tags %}
                     <a href="{{ site.baseurl }}{% link list/posts.html %}#{{ tag | slugify }}"
                        class="bg-white border rounded p-1 mr-2 mb-2 d-inline-block">
-                        {{ tag }}
+                       {{ tag }}
                     </a>
                 {% endfor %}
             </div>

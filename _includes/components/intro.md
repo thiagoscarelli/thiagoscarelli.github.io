@@ -1,1 +1,0 @@
-I'm a Ph.D. student at Paris School of Economics (PSE). My current research focuses on the occupational choices of workers under liquidity constraints in developing countries. You can reach me at thiago.scarelli [at] psemail.com.
