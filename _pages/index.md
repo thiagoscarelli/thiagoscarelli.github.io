@@ -2,7 +2,7 @@
 layout: defaults/page
 permalink: index.html
 narrow: true
-title: About me
+title: Home
 ---
 
 I'm a Ph.D. student at Paris School of Economics (PSE).

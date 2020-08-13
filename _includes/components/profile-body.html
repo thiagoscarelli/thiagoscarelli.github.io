@@ -1,17 +1,18 @@
-<p class="card-text">
 
-    <!---
-    {{site.description}}
-    <hr>
-    --->
+<p>{{site.mail}}</p>
 
+<hr>
+
+<div class="d-flex justify-content-around b-1">
     {% for link in site.data.profile %}
-    <p class="card-text">
-    <a href="{{link.href}}" class="d-flex justify-content-center align-items-center b-1">
-        <span class="icon grey mr-2">{% include {{link.icon}} %}</span>
-        <span class="text-nowrap">{{link.caption}}</span>
+    <a href="{{link.href}}" class="d-inline-flex" data-toggle="tooltip" data-html="true" data-placement="bottom" title="{{link.caption}}">
+        <span class="icon grey">{% include {{link.icon}} %}</span>
     </a>
-    </p>
     {% endfor %}
+</div>
 
-</p>
+<script type="text/javascript">
+    $(function () {
+        $('[data-toggle="tooltip"]').tooltip()
+    })
+</script>
