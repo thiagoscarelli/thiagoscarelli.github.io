@@ -1,4 +1,7 @@
 
+- title: Home
+  href: index.html
+
 - title: Research
   href: research.html
 
@@ -10,6 +13,3 @@
 
 - title: Blog
   href: list/posts.html
-
-- title: About
-  href: index.html
