@@ -10,9 +10,20 @@ excerpt_separator: <!--more-->
 title:            Thiago Scarelli            # Site title
 name:             Thiago Scarelli            # Your name
 avatar:           /theme/img/thiago-scarelli.jpg      # Path to an avatar image
-description:      Thiago Scarelli is a Ph.D. student at Paris School of Economics (PSE). His current research focuses on the occupational choices of workers in developing countries.
+logo:             /theme/img/thiago-scarelli.jpg
+description:      Thiago Scarelli is a Ph.D. student at Paris School of Economics (PSE). His current research focuses on the occupational choices of workers in developing countries. His main interests include applied statistics and econometric softwares.
 intro:            Ph.D. student at Paris School of Economics.
 mail:             thiago.scarelli [at] psemail.eu
+url:              https://thiagoscarelli.github.io/
+
+social:
+  name: Thiago Scarelli
+  links:
+    - https://twitter.com/tscarelli
+    - https://www.linkedin.com/in/thiago-scarelli-36a4a634/
+    - https://github.com/thiagoscarelli
+
+google_site_verification: UK5Z3DkjNFOe8U_y4pFUaSc0cqYigDf3_JDHUIljLhM
 
 # The theme uses the baseurl throughout, which is useful for running the entire
 # site under a subdir, like for this GitHub Pages deployment as a project site.
@@ -48,3 +59,8 @@ defaults:
       show_title: false
       show_profile: false
       layout: defaults/list
+
+# SEO optimization
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
