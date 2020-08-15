@@ -1,5 +1,5 @@
 ---
-title: A collection of useful links for PhD students
+title: How to survive your PhD
 author: Thiago Scarelli
 lang: en_US
 tags:
