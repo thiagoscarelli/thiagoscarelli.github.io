@@ -14,10 +14,6 @@ description:      Thiago Scarelli is a Ph.D. student at Paris School of Economic
 intro:            Ph.D. student at Paris School of Economics.
 mail:             thiago.scarelli [at] psemail.eu
 
-# The theme uses the baseurl throughout, which is useful for running the entire
-# site under a subdir, like for this GitHub Pages deployment as a project site.
-baseurl: ""
-
 # Add a directory to hold misc pages, just to keep the root directory clean.
 include: ["_pages"]
 
@@ -40,7 +36,7 @@ defaults:
     values:
       show_title: false
       show_profile: false
-      layout: defaults/post
+      layout: post
 
 # SEO optimization bits
 plugins:

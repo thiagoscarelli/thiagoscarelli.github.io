@@ -18,7 +18,6 @@ My complete [curriculum vitae is available here](../docs/thiago_scarelli_cv.pdf)
 
 Comments and questions are welcome at <em>thiago.scarelli [at] psemail.eu</em>.
 
-<!---
 <br>
 
 #### Updates
@@ -37,4 +36,3 @@ Comments and questions are welcome at <em>thiago.scarelli [at] psemail.eu</em>.
 {% for post in site.posts limit:3 %}
 {% include components/post-card.html %}
 {% endfor %}
---->
