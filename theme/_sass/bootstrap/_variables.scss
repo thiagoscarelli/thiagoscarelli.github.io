@@ -320,16 +320,18 @@ $display3-weight:             300 !default;
 $display4-weight:             300 !default;
 $display-line-height:         $headings-line-height !default;
 
-$lead-font-size:              $font-size-base * 1.25 !default;
-$lead-font-weight:            300 !default;
+$lead-font-size:              $font-size-base * 1.1 !default;
+$lead-font-weight:            500 !default;
 
 $small-font-size:             80% !default;
 
 $text-muted:                  $gray-600 !default;
 
-$blockquote-small-color:      $gray-600 !default;
-$blockquote-small-font-size:  $small-font-size !default;
-$blockquote-font-size:        $font-size-base * 1.25 !default;
+$blockquote-margin:           $spacer !default;
+$blockquote-padding:          $spacer !default;
+$blockquote-font-size:        $font-size-base !default;
+$blockquote-footer-color:     $gray-600 !default;
+$blockquote-footer-font-size: $small-font-size !default;
 
 $hr-border-color:             rgba($black, .1) !default;
 $hr-border-width:             $border-width !default;

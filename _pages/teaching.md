@@ -21,7 +21,7 @@ title: Teaching activities
 
 [Spring 2020] <b>Introduction à l'Économétrie</b> (undergraduate), <em>with Catherine Doz and Tobias Broer</em>.
 
-- [Handouts: a 3-pages introduction to the SAS statistical software.](../docs/handout_introduction_to_SAS.pdf)
+- [Handout: a 3-pages introduction to SAS.](../docs/handout_introduction_to_SAS.pdf)
 
 <br>
 
