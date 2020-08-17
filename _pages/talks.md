@@ -1,7 +1,6 @@
 ---
-layout: defaults/page
+layout: default
 permalink: talks.html
-narrow: true
 title: Recent talks and presentations
 ---
 

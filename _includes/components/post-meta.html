@@ -5,7 +5,7 @@
             <div class="d-flex flex-wrap align-items-center">
 
                 {% for tag in page.tags %}
-                    <a href="{{ site.baseurl }}{% link list/posts.html %}#{{ tag | slugify }}"
+                    <a href="{{ site.baseurl }}{% link _pages/blog.md %}#{{ tag | slugify }}"
                        class="bg-white border rounded p-1 mr-2 mb-2 d-inline-block">
                        {{ tag }}
                     </a>
@@ -15,7 +15,7 @@
                 <span class="icon grey mr-1">
                     {% include entypo/arrow-left.svg %}
                 </span>
-                <a href="{{ site.baseurl }}{% link list/posts.html %}">Back to all posts</a>
+                <a href="{{ site.baseurl }}{% link _pages/blog.md %}">Back to all posts</a>
             </div>
         </div>
     </div>

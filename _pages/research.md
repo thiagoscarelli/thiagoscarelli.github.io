@@ -1,7 +1,6 @@
 ---
-layout: defaults/page
+layout: default
 permalink: research.html
-narrow: true
 title: Research
 ---
 

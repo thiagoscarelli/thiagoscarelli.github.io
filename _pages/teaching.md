@@ -1,7 +1,6 @@
 ---
-layout: defaults/page
+layout: default
 permalink: teaching.html
-narrow: true
 title: Teaching activities
 ---
 
