@@ -1,5 +1,6 @@
 ---
 title: Why the Ph.D. is hard and how to survive it
+layout: post
 author: Thiago Scarelli
 lang: en_US
 tags:
@@ -7,17 +8,17 @@ tags:
   - Ph.D. life
 ---
 
-<p class="lead">It's common to hear that the PhD is "hard". Contrary to what one could expect, it is not due to a sudden jump in the abstract processing power required to follow the program, nor to the unexpected increase in the volume of data you need to digest. In my experience, the hard bit in the Ph.D. -- the part that feeds our anxiety and makes us feel more stupid than we were 10 years ago -- is due to how different it is from everything else we've done in our student life.</p>
+<p class="lead">It's common to hear that the PhD is "hard". However, contrary to what one could expect, it is not because the abstract processing power required to follow the program suddenly jumps, nor because the volume of data you need to digest becomes unbearable. In my experience, the hard bit in the Ph.D. &mdash; the part that feeds our anxiety and makes us all feel like impostors &mdash; comes from how different it is from everything else we've done so far in our student life.</p>
 
 <!--more-->
 
-Up to this point, the school system expects us to familiarize ourselves with the most common tools and with the canonical results of a given field. Put otherwise, the typical undergraduate course presents a classic set of questions and their accepted answers: our job is to be able to incorporate and replicate them. That's exactly why there are "right" and "wrong" answers in the exams.
+Up to this point, the school system expects us to familiarize ourselves with the common tools and with the canonical results in a given field. Put otherwise, the typical undergraduate course presents a classic set of questions and their accepted answers: our job is to be able to incorporate and replicate them. That's exactly why there are "right" and "wrong" answers in the exams.
 
-By definition, most of the time during the Ph.D. is invested in pursuing questions that have yet no widely accepted answer, or in developing tools that were never used before. There is no "solution set" at the end of the book that you can compare your answer to when you're done (or if you're tempted to give up). The object and the process in themselves are drastically different from the usual training we receive. At the end of the day, who decides if your question is interesting enough and if your answer is valid enough are your peers, the other people in the field who have worked on those questions themselves. You will be navigating uncharted territory: that's what makes it so exciting... and so hard.
+By definition, most of the time during the Ph.D. is invested in pursuing questions that have no widely accepted answer yet, or developing tools that were never used before. There is no "solution set" at the end of the book to which you can compare your results when you're done (or if you're tempted to give up). At the end of the day, who decides if your question is interesting and if your answer is valid are your peers, i.e. the other people in the field who have worked on those questions themselves. We are navigating uncharted territory: that's what makes it so exciting &mdash; and often also very frustrating.
 
-So, where do I start? Where do I find new ideas? How to best allocate my time? How should I write my papers? Those can be paralyzing fears. The good news is that a lot of people have done it before and they have been kind enough to share their wisdom. Some of the best advice I encountered came from people on the internet who do not know me, so I decided that the best way to thank them while helping others at the same time is just to spread their good word.
+How to start? Where can one find new ideas? How to best allocate the time? How to write a nice paper? Those can be paralyzing fears. The good news is that a lot of people have done it before and they have been kind enough to share their wisdom. Some of the best advice I encountered so far came from people on the internet who I've never met, so I decided that the best way to thank them (and to help others in the same situation I am) is just to spread their good word.
 
-Therefore, here's a short collection of helpful resources from smart people on how to survive your Ph.D. Most of it is aimed at economists, but there should be useful bits to students in other fields as well:
+Hence, here's a short collection of helpful resources from smart people on how to survive your graduate studies. Most of it is aimed at economists, but there should be useful bits to students in other fields as well. Take the time to go over their full documents, it does pay off!
 
 <br>
 <hr>
@@ -61,4 +62,4 @@ Therefore, here's a short collection of helpful resources from smart people on h
 
 Is it helpful? Do you disagree with those points? Did I miss something great? Let me know!
 
-*(Updated on 16-08-2020)*
+*Updated on 16-08-2020*

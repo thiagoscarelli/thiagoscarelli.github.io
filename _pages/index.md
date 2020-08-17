@@ -1,7 +1,6 @@
 ---
 layout: default
 permalink: index.html
-narrow: true
 title: Home
 show_title: false
 show_profile: true
@@ -20,10 +19,22 @@ My complete [curriculum vitae is available here](../docs/thiago_scarelli_cv.pdf)
 Comments and questions are welcome at <em>thiago.scarelli [at] psemail.eu</em>.
 
 <!---
-## Recent Posts
+<br>
+
+#### Updates
+
+<hr>
+
+<ul>
+  {% for post in site.posts limit:3 %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
 
 {% for post in site.posts limit:3 %}
 {% include components/post-card.html %}
 {% endfor %}
-
 --->

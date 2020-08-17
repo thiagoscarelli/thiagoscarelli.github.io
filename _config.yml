@@ -41,13 +41,6 @@ defaults:
       show_title: false
       show_profile: false
       layout: defaults/post
-  -
-    scope:
-      path: "list"
-    values:
-      show_title: false
-      show_profile: false
-      layout: defaults/list
 
 # SEO optimization bits
 plugins:
@@ -66,5 +59,3 @@ social:
     - https://github.com/thiagoscarelli
 
 google_site_verification: UK5Z3DkjNFOe8U_y4pFUaSc0cqYigDf3_JDHUIljLhM
-
-excerpt_separator: <!--more-->
