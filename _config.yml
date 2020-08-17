@@ -1,5 +1,5 @@
 # Outputting
-permalink: /:categories/:year/:title.html
+permalink: /:year/:title.html
 
 # Conversion
 markdown:         kramdown
