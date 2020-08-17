@@ -8,7 +8,7 @@ tags:
   - Ph.D. life
 ---
 
-<p class="lead">It's common to hear that the PhD is "hard". However, contrary to what one could expect, it is not because the abstract processing power required to follow the program suddenly jumps, nor because the volume of data you need to digest becomes unbearable. In my experience, the hard bit in the Ph.D. &mdash; the part that feeds our anxiety and makes us all feel like impostors &mdash; comes from how different it is from everything else we've done so far in our student life.</p>
+<p class="lead">It's common to hear that the Ph.D. is "hard". However, contrary to what one could expect, it is not because of the abstract processing power required to follow it, nor because of the volume of data you need to digest. In my experience, the hard bit in the Ph.D. &mdash; the part that feeds our anxiety and makes us all feel like impostors &mdash; comes from how different it is from everything else we've done so far in our student life.</p>
 
 <!--more-->
 
