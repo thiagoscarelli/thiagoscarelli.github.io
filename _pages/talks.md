@@ -8,6 +8,13 @@ title: Recent talks and presentations
 
 <hr>
 
-<b>[Research Biases in Social Sciences: An overview of common cases and how to avoid them.](../docs/presentation_research_biases.pdf)</b>
+<b>[When You Can't Afford to Wait for a Job: The Role of Time Discounting for Own-Account Workers in Developing Countries.](../docs/2020-07-17-presentation-oaw.pdf)</b>
 
-Presentation delivered during a "Research Club Talk" at the Maison de L'Inde, Cité Internationale Universitaire de Paris (CIUP), France.
+Presentation delivered at the "Casual Friday Development Seminar", Paris School of Economics (PSE), France.
+
+<br>
+<hr>
+
+<b>[Research Biases in Social Sciences: An overview of common cases and how to avoid them.](../docs/2020-03-06-presentation-research-biases.pdf)</b>
+
+Presentation delivered at the "Research Club Talk", Maison de L'Inde, Cité Internationale Universitaire de Paris (CIUP), France.

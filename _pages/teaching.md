@@ -10,7 +10,7 @@ title: Teaching activities
 
 [Spring 2020] <b>Applied Statistics in the Humanities and Social Sciences</b> (undergraduate).
 
-- [Syllabus.](../docs/SCARELLI_stats_intro_spring_2019_20.pdf)
+- [Syllabus.](../docs/2020-Spring-Statistics.pdf)
 
 <br>
 
