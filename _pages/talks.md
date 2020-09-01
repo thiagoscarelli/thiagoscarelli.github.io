@@ -8,7 +8,14 @@ title: Recent talks and presentations
 
 <hr>
 
-<b>[When You Can't Afford to Wait for a Job: The Role of Time Discounting for Own-Account Workers in Developing Countries.](../docs/2020-07-17-presentation-oaw.pdf)</b>
+<b>[When You Can't Afford to Wait for a Job: The Role of Time Discounting for Own-Account Workers in Developing Countries.](../docs/2020-09-03-presentation-oaw-scarelli.pdf)</b>
+
+**3rd Annual IZA/World Bank/NJD/UNU-WIDER Jobs and Development Conference**, online conference.
+
+<br>
+<hr>
+
+<b>[When You Can't Afford to Wait for a Job: The Role of Time Discounting for Own-Account Workers in Developing Countries.](../docs/2020-07-17-presentation-oaw-scarelli.pdf)</b>
 
 **Casual Friday Development Seminar**, Paris School of Economics (PSE), France.
 
