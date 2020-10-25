@@ -14,9 +14,11 @@ Simulating data if often an easy way to check whether an estimation is working a
 
 <!--more-->
 
-The pragmatic answer is: for the usual distributions, most statistical softwares will have a function that does that for you.
+**The pragmatic answer is:** for the usual distributions, most statistical softwares will have a function that does that for you.
 
-The general answer is: if you need more flexibility, you can simulate random draws for any arbitrary distribution you can think of, provided that you can write down an analytical form for the inverse of its cumulative distribution function $F(\cdot)$. Then you take this new function $F^(-1)(\cdot)$ and evaluate it using draws from the standard uniform. This works because if $U \sim \text{Uniform} \, \mathrm{(0, 1)}$, then $x_i = F^{-1}(u_i)$ will be distributed according to the density $f(\cdot)$.
+**The general answer is:** if you need more flexibility, you can simulate random draws for any arbitrary distribution you can think of, provided that you can write down an analytical form for the inverse of its cumulative distribution function $F(\cdot)$. You just neer to take this new function $F^{-1}(\cdot)$ and evaluate it using draws from the standard uniform. This works because $x_i = F^{-1}(u_i)$ will be distributed according to the density $f(\cdot)$ for $U \sim \text{Uniform} \, \mathrm{(0, 1)}$.
+
+<br>
 
 ##### Example: Draws from an exponential distribution
 
@@ -29,6 +31,8 @@ And the inverse of it could be written as:
 $$F^{-1}(x; \lambda) = - \frac{\log(1-x)}{\lambda}$$
 
 All you need to do is generate random draws $u_i$ from the standard [0, 1] uniform and input them in the above function to get $x_i = F^{-1}(u_i; \lambda)$, which will follow an exponential distribution of rate $\lambda$.
+
+<br>
 
 ##### Code example using R
 
@@ -53,26 +57,29 @@ ggplot(as.data.frame(exp_i)) + geom_density(aes(x = exp_i))
 <div class = "text-center">
 <img src = "../exhibits/simulation_exponential_R.png" class = "img-fluid">
 </div>
+
 <br>
 
-If you check the mean and the standard deviation of <kbd>exp_i</kbd>, you should find values close to 0.5 (or 1/lambda), as expected. Note too that the distribution created this way converges to what you would obtain using R's function <kbd>rexp(n = 100000, rate = 2)</kbd>. After all, what the software is doing under the hood is not much different from what we are doing explicitly.
+If you check the mean and the standard deviation of <kbd>exp_i</kbd>, you should find values close to 0.5 (or, in general, $1/\lambda$). Note too that the distribution created this way converges to what you would obtain using R's function <kbd>rexp(n = 100000, rate = 2)</kbd>. After all, what the software is doing under the hood is not much different from what we are doing explicitly.
+
+<br>
 
 ##### Code example using Stata
 
 ```
-# How many draws?
+* How many draws?
 set obs 100000
 
-# Draws from an uniform distribution
+* Draws from an uniform distribution
 gen u_i = runiform()
 
-# Parameter that defines the distribution of interest
+* Parameter that defines the distribution of interest
 scalar lambda = 2
 
-# Draws from an exponential distribution using the inverse of its CDF
+* Draws from an exponential distribution using the inverse of its CDF
 gen exp_i = -log(1 - u_i) / lambda
 
-# A density plot with the simulated values
+* A density plot with the simulated values
 kdensity exp_i
 ```
 
@@ -82,6 +89,8 @@ kdensity exp_i
 <br>
 
 Again, the results are similar to what one would obtain with Stata's own <kbd>rexponential(2)</kbd>.
+
+The key message here is that, should you
 
 <br>
 <hr>
