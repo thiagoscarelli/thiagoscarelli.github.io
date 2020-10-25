@@ -11,7 +11,6 @@ tags:
 It's common to hear that the Ph.D. is "hard". However, contrary to what one could expect, it is not because of the abstract processing power required to follow it, nor due to the volume of data you need to digest. The hard bit in the Ph.D. &mdash; the part that feeds our anxiety and makes us all feel like impostors &mdash; comes from how different it is from everything else we've done so far in our student life.
 
 <!--more-->
-<br>
 
 Up to this point, the school system expects us to familiarize ourselves with the common tools and with the canonical results in a given field. Put otherwise, the typical undergraduate course presents a classic set of questions and their accepted answers: our job is to be able to incorporate and replicate them. That's exactly why there are "right" and "wrong" answers in the exams.
 
