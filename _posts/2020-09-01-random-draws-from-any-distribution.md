@@ -90,8 +90,6 @@ kdensity exp_i
 
 Again, the results are similar to what one would obtain with Stata's own <kbd>rexponential(2)</kbd>.
 
-The key message here is that, should you
-
 <br>
 <hr>
 
