@@ -10,19 +10,19 @@ tags:
   - R
 ---
 
-Simulating data if often an easy way to check whether an estimation is working as intended before applying it to real data. The key advantages are that (a) you know exactly how each variable was generated and (b) your sample is as large you need it to be. The first step, however, is actually getting random draws from a given distribution. How do we do this in practice?
+Simulating data is often an easy way to check whether an estimation is working as intended before applying it to real data. The key advantages are that (a) you know exactly how each variable was generated and (b) your sample is as large as you need it to be. The first step, however, is actually getting random draws from a given distribution. How do we do this in practice?
 
 <!--more-->
 
 **The pragmatic answer is:** for the usual distributions, most statistical softwares will have a function that does that for you.
 
-**The general answer is:** if you need more flexibility, you can simulate random draws for any arbitrary distribution you can think of, provided that you can write down an analytical form for the inverse of its cumulative distribution function $F(\cdot)$. You just neer to take this new function $F^{-1}(\cdot)$ and evaluate it using draws from the standard uniform. This works because $x_i = F^{-1}(u_i)$ will be distributed according to the density $f(\cdot)$ for $U \sim \text{Uniform} \, \mathrm{(0, 1)}$.
+**The general answer is:** if you need more flexibility, you can simulate random draws for any arbitrary distribution you can think of, provided that you can write down an analytical form for the inverse of its cumulative distribution function $F(\cdot)$. You just need to take this new function $F^{-1}(\cdot)$ and evaluate it using draws from the standard uniform. This works because $x_i = F^{-1}(u_i)$ will be distributed according to the density $f(\cdot)$ for $U \sim \text{Uniform} \, \mathrm{(0, 1)}$.
 
 <br>
 
 ##### Example: Draws from an exponential distribution
 
-Suppose you need to simulate draws from an [exponential distribution](https://en.wikipedia.org/wiki/Exponential_distribution). This distribution is cool because it's fully characterized by a single parameter $\lambda$ (often called the rate parameter) and it's useful in a number of applications, particularly those related with the modeling of duration. We know that for non-negative values of $x$ its CDF is given by:
+Suppose you need to simulate draws from an [exponential distribution](https://en.wikipedia.org/wiki/Exponential_distribution). This distribution is a nice one because it's fully characterized by a single parameter $\lambda$ (often called the rate parameter) and it's useful in a number of applications, particularly those related with the [modeling of duration](https://en.wikipedia.org/wiki/Survival_analysis). We know that for non-negative values of $x$ its CDF is given by:
 
 $$ F(x; \lambda) = 1 - \exp(-\lambda x)$$
 
@@ -90,7 +90,17 @@ kdensity exp_i
 
 Again, the results are similar to what one would obtain with Stata's own <kbd>rexponential(2)</kbd>.
 
-More importantly, however, is that the same strategy goes beyond the simple exponential case and can be easily generalized for more exotic distributions that do not have a preexisting random function available or for cases in which the default parametrization is different from the one you would need.   
+More importantly, however, is that the same strategy goes beyond the simple exponential case and can be easily generalized for more exotic distributions that do not have a preexisting random function available or for cases in which the default parametrization is different from the one you would need.
+
+<br>
+
+##### Why does it work?
+
+The CDF, by definition, maps every possible value a function can take into the interval between 0 and 1. Intuitively, the strategy above makes use of this property and revert the mapping, from the interval [0, 1] back to the support of the function. The shape of $F^{-1}(\cdot)$ alone is enough to make more frequent values of $x_i$ appear more often, even if every $u_i$ has the same probability of being used in the process. Cool, no?
+
+<div class = "text-center">
+<img src = "../exhibits/simulation_why.png" class = "img-fluid">
+</div>
 
 <br>
 <hr>
