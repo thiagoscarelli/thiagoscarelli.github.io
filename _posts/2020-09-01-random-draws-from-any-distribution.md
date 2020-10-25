@@ -14,7 +14,51 @@ Simulating data is often an easy way to check whether an estimation is working a
 
 <!--more-->
 
-**The pragmatic answer is:** for the usual distributions, most statistical softwares will have a function that does that for you.
+**The pragmatic answer is:** for the usual distributions, most statistical softwares will have a function that does that for you. For a quick reference, check this table.
+
+<table class="table table-sm">
+  <thead class="thead-light">
+  <tr>
+    <th scope="col">Distribution</th>
+    <th scope="col">R function</th>
+    <th scope="col">Stata function</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+    <td scope="row">Uniform</td>
+    <td><samp><samp>runif(n, min = 0, max = 1)</samp></samp></td>
+    <td><samp>runiform(a, b)</samp></td>
+  </tr>
+  <tr>
+    <td scope="row">Normal</td>
+    <td><samp>rnorm(n, mean = 0, sd = 1)</samp></td>
+    <td><samp>rnormal()</samp></td>
+  </tr>
+  <tr>
+    <td scope="row">Binomial</td>
+    <td><samp>rbinom(n, size, prob)</samp></td>
+    <td><samp>rbinomial(n, p)</samp></td>
+  </tr>
+  <tr>
+    <td scope="row">Exponential</td>
+    <td><samp>rexp(n, rate = 1)</samp></td>
+    <td><samp>rexponential(b)</samp></td>
+  </tr>
+  <tr>
+    <td scope="row">Weibull</td>
+    <td><samp>rweibull(n, shape, scale = 1)</samp></td>
+    <td><samp>rweibullph(a, b)</samp></td>
+  </tr>
+  <tr>
+    <td scope="row">Gamma</td>
+    <td><samp>rgamma(n, shape, rate = 1, scale = 1/rate)</samp></td>
+    <td><samp>rgamma(a, b)</samp></td>
+  </tr>
+</tbody>
+</table>
+
+<br>
 
 **The general answer is:** if you need more flexibility, you can simulate random draws for any arbitrary distribution you can think of, provided that you can write down an analytical form for the inverse of its cumulative distribution function $F(\cdot)$. You just need to take this new function $F^{-1}(\cdot)$ and evaluate it using draws from the standard uniform. This works because $x_i = F^{-1}(u_i)$ will be distributed according to the density $f(\cdot)$ for $U \sim \text{Uniform} \, \mathrm{(0, 1)}$.
 
