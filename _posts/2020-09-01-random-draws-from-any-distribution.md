@@ -13,6 +13,7 @@ tags:
 Simulating data is often an easy way to check whether an estimation is working as intended before applying it to real data. The key advantages are that (a) you know exactly how each variable was generated and (b) your sample is as large as you need it to be. But how do you actually get random draws from a given distribution?
 
 <!--more-->
+<br>
 
 **The pragmatic answer is:** for the usual distributions, most statistical softwares will have a function that does that for you. For a quick reference, check this table.
 
