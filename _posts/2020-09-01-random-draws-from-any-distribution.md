@@ -10,7 +10,7 @@ tags:
   - R
 ---
 
-Simulating data is often an easy way to check whether an estimation is working as intended before applying it to real data. The key advantages are that (a) you know exactly how each variable was generated and (b) your sample is as large as you need it to be. The first step, however, is actually getting random draws from a given distribution. How do we do this in practice?
+Simulating data is often an easy way to check whether an estimation is working as intended before applying it to real data. The key advantages are that (a) you know exactly how each variable was generated and (b) your sample is as large as you need it to be. But how do you actually get random draws from a given distribution?
 
 <!--more-->
 
