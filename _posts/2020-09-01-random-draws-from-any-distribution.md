@@ -90,6 +90,8 @@ kdensity exp_i
 
 Again, the results are similar to what one would obtain with Stata's own <kbd>rexponential(2)</kbd>.
 
+More importantly, however, is that the same strategy goes beyond the simple exponential case and can be easily generalized for more exotic distributions that do not have a preexisting random function available or for cases in which the default parametrization is different from the one you would need.   
+
 <br>
 <hr>
 
