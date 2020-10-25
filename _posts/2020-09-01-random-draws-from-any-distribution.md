@@ -1,0 +1,91 @@
+---
+title: How to simulate random draws from any distribution
+layout: post
+author: Thiago Scarelli
+lang: en_US
+tags:
+  - Statistics
+  - Simulation
+  - Stata
+  - R
+---
+
+Simulating data if often an easy way to check whether an estimation is working as intended before applying it to real data. The key advantages are that (a) you know exactly how each variable was generated and (b) your sample is as large you need it to be. The first step, however, is actually getting random draws from a given distribution. How do we do this in practice?
+
+<!--more-->
+
+The pragmatic answer is: for the usual distributions, most statistical softwares will have a function that does that for you.
+
+The general answer is: if you need more flexibility, you can simulate random draws for any arbitrary distribution you can think of, provided that you can write down an analytical form for the inverse of its cumulative distribution function $F(\cdot)$. Then you take this new function $F^(-1)(\cdot)$ and evaluate it using draws from the standard uniform. This works because if $U \sim \text{Uniform} \, \mathrm{(0, 1)}$, then $x_i = F^{-1}(u_i)$ will be distributed according to the density $f(\cdot)$.
+
+##### Example: Draws from an exponential distribution
+
+Suppose you need to simulate draws from an [exponential distribution](https://en.wikipedia.org/wiki/Exponential_distribution). This distribution is cool because it's fully characterized by a single parameter $\lambda$ (often called the rate parameter) and it's useful in a number of applications, particularly those related with the modeling of duration. We know that for non-negative values of $x$ its CDF is given by:
+
+$$ F(x; \lambda) = 1 - \exp(-\lambda x)$$
+
+And the inverse of it could be written as:
+
+$$F^{-1}(x; \lambda) = - \frac{\log(1-x)}{\lambda}$$
+
+All you need to do is generate random draws $u_i$ from the standard [0, 1] uniform and input them in the above function to get $x_i = F^{-1}(u_i; \lambda)$, which will follow an exponential distribution of rate $\lambda$.
+
+##### Code example using R
+
+``` r
+# How many draws?
+N <- 100000
+
+# A vector of n draws from an uniform distribution
+u_i <- runif(n = N, min = 0, max = 1)
+
+# Parameter that defines the distribution of interest
+lambda <- 2
+
+# Draws from an exponential distribution using the inverse of its CDF
+exp_i <- -log(1 - u_i) / lambda
+
+# A density plot with the simulated values
+library(ggplot2)
+ggplot(as.data.frame(exp_i)) + geom_density(aes(x = exp_i))
+```
+
+<div class = "text-center">
+<img src = "../exhibits/simulation_exponential_R.png" class = "img-fluid">
+</div>
+<br>
+
+If you check the mean and the standard deviation of <kbd>exp_i</kbd>, you should find values close to 0.5 (or 1/lambda), as expected. Note too that the distribution created this way converges to what you would obtain using R's function <kbd>rexp(n = 100000, rate = 2)</kbd>. After all, what the software is doing under the hood is not much different from what we are doing explicitly.
+
+##### Code example using Stata
+
+```
+# How many draws?
+set obs 100000
+
+# Draws from an uniform distribution
+gen u_i = runiform()
+
+# Parameter that defines the distribution of interest
+scalar lambda = 2
+
+# Draws from an exponential distribution using the inverse of its CDF
+gen exp_i = -log(1 - u_i) / lambda
+
+# A density plot with the simulated values
+kdensity exp_i
+```
+
+<div class = "text-center">
+<img src = "../exhibits/simulation_exponential_stata.png" class = "img-fluid">
+</div>
+<br>
+
+Again, the results are similar to what one would obtain with Stata's own <kbd>rexponential(2)</kbd>.
+
+<br>
+<hr>
+
+Is it helpful? Is there a mistake somewhere? Did I miss something important? Let me know :)
+
+*Updated on 25-10-2020*

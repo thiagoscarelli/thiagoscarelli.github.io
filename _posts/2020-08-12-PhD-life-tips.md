@@ -8,7 +8,7 @@ tags:
   - Ph.D. life
 ---
 
-<p class="lead">It's common to hear that the Ph.D. is "hard". However, contrary to what one could expect, it is not because of the abstract processing power required to follow it, nor because of the volume of data you need to digest. In my experience, the hard bit in the Ph.D. &mdash; the part that feeds our anxiety and makes us all feel like impostors &mdash; comes from how different it is from everything else we've done so far in our student life.</p>
+It's common to hear that the Ph.D. is "hard". However, contrary to what one could expect, it is not because of the abstract processing power required to follow it, nor due to the volume of data you need to digest. The hard bit in the Ph.D. &mdash; the part that feeds our anxiety and makes us all feel like impostors &mdash; comes from how different it is from everything else we've done so far in our student life.
 
 <!--more-->
 
@@ -53,13 +53,13 @@ Hence, here's a short collection of helpful resources from smart people on how t
 
 - But don't worry too much. In the end, [**grad school is just like kindergarten**, by PhD comics](http://phdcomics.com/comics/archive.php?comicid=1286).
 
-<div class="text-center">
-<img src="../docs/phd030110s.gif" class="img-fluid">
+<div class = "text-center">
+<img src = "../exhibits/phd030110s.gif" class = "img-fluid">
 </div>
 
 <br>
 <hr>
 
-Is it helpful? Do you disagree with those points? Did I miss something great? Let me know!
+Is it helpful? Is there a mistake somewhere? Did I miss something important? Let me know :)
 
 *Updated on 16-08-2020*

@@ -4,24 +4,40 @@ permalink: teaching.html
 title: Teaching activities
 ---
 
-#### Adjunct Professor - Sciences Po
+##### Adjunct Professor - Sciences Po
 
 <hr>
 
-[Spring 2020] <b>Applied Statistics in the Humanities and Social Sciences</b> (undergraduate).
+<b>Applied Statistics in the Humanities and Social Sciences</b> (Spring 2020).
 
-- [Syllabus.](../docs/2020-spring-statistics.pdf)
+- Undergraduate level course, taught in English.
+
+- [Syllabus available here.](../docs/2020-spring-statistics.pdf)
 
 <br>
 
-#### Teaching Assistant - University of Paris I: Panthéon-Sorbonne
+##### Teaching Assistant - University of Paris I: Panthéon-Sorbonne
 
 <hr>
 
-[Spring 2020] <b>Introduction à l'Économétrie</b> (undergraduate), <em>with Catherine Doz and Tobias Broer</em>.
+<b>Econométrie appliquée</b> (Fall 2020), <em>with Clément Bosquet</em>.
 
-- [Handout: a 3-pages introduction to SAS.](../docs/2020-handout-introduction-to-sas.pdf)
+- Graduate level course, taught in French.
 
 <br>
 
-[Fall 2019] <b>Statistiques : Probabilité</b> (undergraduate), <em>with Delphine Brochard and Éric Defebvre</em>.
+<b>Statistiques Descriptives</b> (Fall 2020), <em>with Liza Charroin, Patricia Vornetti and Jérôme Glachant</em>.
+
+- Undergraduate level course, taught in French.
+
+<br>
+
+<b>Introduction à l'Économétrie</b> (Spring 2020), <em>with Catherine Doz and Tobias Broer</em>.
+
+- Undergraduate level course, taught in French and in English.
+
+<br>
+
+<b>Statistiques : Probabilité</b> (Fall 2019), <em>with Delphine Brochard and Éric Defebvre</em>.
+
+- Undergraduate level course, taught in French.
