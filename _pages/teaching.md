@@ -8,7 +8,7 @@ title: Teaching activities
 
 <hr>
 
-<b>Applied Statistics in the Humanities and Social Sciences</b> (Spring 2020).
+<b>Applied Statistics in the Humanities and Social Sciences</b> (Spring 2020 & 2021).
 
 - Undergraduate level course, taught in English.
 
@@ -20,6 +20,12 @@ title: Teaching activities
 
 <hr>
 
+<b>Introduction à l'Économétrie</b> (Spring 2020 & 2021), <em>with Catherine Doz and Tobias Broer</em>.
+
+- Undergraduate level course, taught in French and in English.
+
+<br>
+
 <b>Econométrie appliquée</b> (Fall 2020), <em>with Clément Bosquet</em>.
 
 - Graduate level course, taught in French.
@@ -29,12 +35,6 @@ title: Teaching activities
 <b>Statistiques Descriptives</b> (Fall 2020), <em>with Liza Charroin, Patricia Vornetti and Jérôme Glachant</em>.
 
 - Undergraduate level course, taught in French.
-
-<br>
-
-<b>Introduction à l'Économétrie</b> (Spring 2020), <em>with Catherine Doz and Tobias Broer</em>.
-
-- Undergraduate level course, taught in French and in English.
 
 <br>
 
