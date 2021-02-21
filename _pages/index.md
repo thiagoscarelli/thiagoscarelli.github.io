@@ -14,7 +14,7 @@ I'm a Ph.D. student at Paris School of Economics (PSE), working on labor, behavi
 
 My current research focuses on occupational choices under liquidity constraints in developing countries. The most recent version of my working papers can be found in the [research section]({{ site.baseurl}}{% link _pages/research.md %}).
 
-My [curriculum vitae is available here](../docs/thiago_scarelli_cv.pdf).
+My [curriculum vitae is available here](../docs/thiago-scarelli-cv.pdf).
 
 Comments and questions are welcome at <em>thiago.scarelli [at] psemail.eu</em>.
 
