@@ -8,21 +8,21 @@ title: Recent talks and presentations
 
 <hr>
 
-<b>[When You Can't Afford to Wait for a Job: The Role of Time Discounting for Own-Account Workers in Developing Countries.](../docs/2020-09-03-presentation-oaw-scarelli.pdf)</b>
+<b>[When You Can't Afford to Wait for a Job: The Role of Time Discounting for Own-Account Workers in Developing Countries.](../docs/2020_09_03_presentation_oaw_scarelli.pdf)</b>
 
 **3rd Annual IZA/World Bank/NJD/UNU-WIDER Jobs and Development Conference**, online conference.
 
 <br>
 <hr>
 
-<b>[When You Can't Afford to Wait for a Job: The Role of Time Discounting for Own-Account Workers in Developing Countries.](../docs/2020-07-17-presentation-oaw-scarelli.pdf)</b>
+<b>[When You Can't Afford to Wait for a Job: The Role of Time Discounting for Own-Account Workers in Developing Countries.](../docs/2020_07_17_presentation_oaw_scarelli.pdf)</b>
 
 **Casual Friday Development Seminar**, Paris School of Economics (PSE), France.
 
 <br>
 <hr>
 
-<b>[Research Biases in Social Sciences: An Overview of Common Cases and How to Avoid Them.](../docs/2020-03-06-presentation-research-biases.pdf)</b>
+<b>[Research Biases in Social Sciences: An Overview of Common Cases and How to Avoid Them.](../docs/2020_03_06_presentation_research_biases.pdf)</b>
 
 **Research Club Talk**, Maison de L'Inde, Cité Internationale Universitaire de Paris (CIUP), France.
 
@@ -32,6 +32,6 @@ title: Recent talks and presentations
 
 <hr>
 
-<b>[What are the Effects of Online Job Search on the Labor Market?](../docs/2018-07-18-presentation-online-job-search.pdf)</b>
+<b>[What are the Effects of Online Job Search on the Labor Market?](../docs/2018_07_18_presentation_online_job_search.pdf)</b>
 
 **Cycle de Conférences de la Maison du Brésil**, Cité Internationale Universitaire de Paris (CIUP), France.
