@@ -8,14 +8,14 @@ title: Recent talks and presentations
 
 <hr>
 
-<b>When You Can't Afford to Wait for a Job: The Role of Time Discounting for Own-Account Workers in Developing Countries.</b>
+<b>[When You Can't Afford to Wait for a Job: The Role of Time Discounting for Own-Account Workers in Developing Countries.](https://hal-pse.archives-ouvertes.fr/halshs-03288728v1)</b>
 
 **3rd Annual IZA/World Bank/NJD/UNU-WIDER Jobs and Development Conference**, online conference.
 
 <br>
 <hr>
 
-<b>When You Can't Afford to Wait for a Job: The Role of Time Discounting for Own-Account Workers in Developing Countries.</b>
+<b>[When You Can't Afford to Wait for a Job: The Role of Time Discounting for Own-Account Workers in Developing Countries.](https://hal-pse.archives-ouvertes.fr/halshs-03288728v1)</b>
 
 **Casual Friday Development Seminar**, Paris School of Economics (PSE), France.
 
