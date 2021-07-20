@@ -10,7 +10,7 @@ title: Recent talks and presentations
 
 <b>[When You Can't Afford to Wait for a Job: The Role of Time Discounting for Own-Account Workers in Developing Countries.](https://hal-pse.archives-ouvertes.fr/halshs-03288728v1){:target="_blank"}</b>
 
-**3rd Annual IZA/World Bank/NJD/UNU-WIDER Jobs and Development Conference**, online conference.
+**3rd Annual IZA/World Bank/NJD/UNU-WIDER Jobs and Development Conference** (online).
 
 **Casual Friday Development Seminar**, Paris School of Economics (PSE), France.
 
