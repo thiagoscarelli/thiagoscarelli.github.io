@@ -10,7 +10,7 @@ show_profile: true
 
 <hr>
 
-Ph.D. candidate at the Paris School of Economics (PSE). [Curriculum vitae here](../docs/thiago_scarelli_cv.pdf).
+Ph.D. candidate at the Paris School of Economics (PSE). [Curriculum vitae here](../docs/thiago_scarelli_cv.pdf){:target="_blank"}.
 
 My main interest is to use the tools from labor and behavior economics to investigate questions that are relevant to developing countries.
 

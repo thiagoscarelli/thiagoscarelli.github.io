@@ -17,7 +17,7 @@ title: Recent talks and presentations
 <br>
 <hr>
 
-<b>[Research Biases in Social Sciences: An Overview of Common Cases and How to Avoid Them.](../docs/2020_03_06_presentation_research_biases.pdf)</b>
+<b>[Research Biases in Social Sciences: An Overview of Common Cases and How to Avoid Them.](../docs/2020_03_06_presentation_research_biases.pdf){:target="_blank"}</b>
 
 **Research Club Talk**, Maison de L'Inde, Cité Internationale Universitaire de Paris (CIUP), France.
 
@@ -27,6 +27,6 @@ title: Recent talks and presentations
 
 <hr>
 
-<b>[What are the Effects of Online Job Search on the Labor Market?](../docs/2018_07_18_presentation_online_job_search.pdf)</b>
+<b>[What are the Effects of Online Job Search on the Labor Market?](../docs/2018_07_18_presentation_online_job_search.pdf){:target="_blank"}</b>
 
 **Cycle de Conférences de la Maison du Brésil**, Cité Internationale Universitaire de Paris (CIUP), France.
