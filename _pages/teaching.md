@@ -26,9 +26,9 @@ title: Teaching activities
 
 <br>
 
-<b>Econométrie appliquée</b> (Fall 2020), <em>with Clément Bosquet</em>.
+<b>Econométrie appliquée</b> (Fall 2020 & 2021), <em>with Clément Bosquet</em>.
 
-- Graduate level course, taught in French.
+- Masters level course, taught in French.
 
 <br>
 
