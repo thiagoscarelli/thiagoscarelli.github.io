@@ -33,12 +33,11 @@ datasaurus_dozen %>%
     cor_xy = cor(x, y),
     beta_coef = cov(x, y)/var(x)    
   ) %>%
-  knitr::kable(format = "html", digits = 2)
-
+  knitr::kable(format = "rst", digits = 2)
 ```
 
-<table>
- <thead>
+<table class="table table-sm">
+  <thead class="thead-light">
   <tr>
    <th style="text-align:right;"> n </th>
    <th style="text-align:right;"> mean_x </th>
