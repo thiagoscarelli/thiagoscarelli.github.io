@@ -303,3 +303,5 @@ The "simulated annealing" part means that the process is calibrated in a way tha
 
 <br>
 <hr>
+
+This post was also published at the [OpenIntro blog](https://www.openintro.org/blog/article/summary-statistics-and-the-datasaurus-dozen/).
