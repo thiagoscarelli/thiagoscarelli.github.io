@@ -10,7 +10,7 @@ title: Recent talks and presentations
 
 <b>[When You Can't Afford to Wait for a Job: The Role of Time Discounting for Own-Account Workers in Developing Countries.](https://hal-pse.archives-ouvertes.fr/halshs-03288728v1){:target="_blank"}</b>
 
-**Atelier d'Introduction à la Recherche**, École Normale Supérieure (ENS), France (invited speaker)
+**Atelier d'Introduction à la Recherche**, École Normale Supérieure (ENS), France (invited speaker).
 
 <br>
 <hr>
