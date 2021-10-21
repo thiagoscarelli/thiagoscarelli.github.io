@@ -14,7 +14,7 @@ Simulating data is often an easy way to check whether an estimation is working a
 
 <!--more-->
 <br>
-#### The pragmatic answer
+##### The pragmatic answer
 
 For the usual distributions, your statistical software has a function that does that. A quick reference:
 
@@ -62,12 +62,12 @@ For the usual distributions, your statistical software has a function that does 
 </table>
 
 <br>
-#### The general answer
+##### The general answer
 
 If you need more flexibility, you can simulate random draws for any arbitrary distribution you can think of, provided that you can write down an analytical form for the inverse of its cumulative distribution function $F(\cdot)$. You just need to take this new function $F^{-1}(\cdot)$ and evaluate it using draws from the standard uniform. This works because $x_i = F^{-1}(u_i)$ will be distributed according to the density $f(\cdot)$ for $U \sim \text{Uniform} \, \mathrm{(0, 1)}$.
 
 <br>
-#### Example: Draws from an exponential distribution
+##### Example: Draws from an exponential distribution
 
 Suppose you need to simulate draws from an [exponential distribution](https://en.wikipedia.org/wiki/Exponential_distribution). This distribution is a nice one because it's fully characterized by a single parameter $\lambda$ (often called the rate parameter) and it's useful in a number of applications, particularly those related with the [modeling of duration](https://en.wikipedia.org/wiki/Survival_analysis). We know that for non-negative values of $x$ its CDF is given by:
 
@@ -80,7 +80,7 @@ $$F^{-1}(x; \lambda) = - \frac{\log(1-x)}{\lambda}$$
 All you need to do is generate random draws $u_i$ from the standard [0, 1] uniform and input them in the above function to get $x_i = F^{-1}(u_i; \lambda)$, which will follow an exponential distribution of rate $\lambda$.
 
 <br>
-#### Code example using R
+##### Code example using R
 
 ``` r
 # How many draws?
@@ -109,7 +109,7 @@ ggplot(as.data.frame(exp_i)) + geom_density(aes(x = exp_i))
 If you check the mean and the standard deviation of <kbd>exp_i</kbd>, you should find values close to 0.5 (or, in general, $1/\lambda$). Note too that the distribution created this way converges to what you would obtain using R's function <kbd>rexp(n = 100000, rate = 2)</kbd>. After all, what the software is doing under the hood is not much different from what we are doing explicitly.
 
 <br>
-#### Code example using Stata
+##### Code example using Stata
 
 ```
 * How many draws?
@@ -138,7 +138,7 @@ Again, the results are similar to what one would obtain with Stata's own <kbd>re
 More importantly, however, is that the same strategy goes beyond the simple exponential case and can be easily generalized for more exotic distributions that do not have a preexisting random function available or for cases in which the default parametrization is different from the one you would need.
 
 <br>
-#### Why does it work?
+##### Why does it work?
 
 The CDF, by definition, maps every possible value a function can take into the interval between 0 and 1. Intuitively, the strategy above makes use of this property and revert the mapping, from the interval [0, 1] back to the support of the function. The shape of $F^{-1}(\cdot)$ alone is enough to make more frequent values of $x_i$ appear more often, even if every $u_i$ has the same probability of being used in the process. Very cool, no?
 
