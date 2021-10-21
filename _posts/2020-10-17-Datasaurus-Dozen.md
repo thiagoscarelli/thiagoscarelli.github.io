@@ -40,24 +40,24 @@ summary_stats %>% knitr::kable(format = "rst", digits = 2)
 <table class="table table-sm">
   <thead class="thead-light">
   <tr>
-   <th> n </th>
-   <th> mean_x </th>
-   <th> sd_x </th>
-   <th> mean_y </th>
-   <th> sd_y </th>
-   <th> cor_xy </th>
-   <th> beta_coef </th>
+   <th style="text-align:center;"> n </th>
+   <th style="text-align:center;"> mean_x </th>
+   <th style="text-align:center;"> sd_x </th>
+   <th style="text-align:center;"> mean_y </th>
+   <th style="text-align:center;"> sd_y </th>
+   <th style="text-align:center;"> cor_xy </th>
+   <th style="text-align:center;"> beta_coef </th>
   </tr>
  </thead>
 <tbody>
   <tr>
-   <td> 142 </td>
-   <td> 54.26 </td>
-   <td> 16.77 </td>
-   <td> 47.83 </td>
-   <td> 26.94 </td>
-   <td> -0.06 </td>
-   <td> -0.1 </td>
+   <td style="text-align:center;"> 142 </td>
+   <td style="text-align:center;"> 54.26 </td>
+   <td style="text-align:center;"> 16.77 </td>
+   <td style="text-align:center;"> 47.83 </td>
+   <td style="text-align:center;"> 26.94 </td>
+   <td style="text-align:center;"> -0.06 </td>
+   <td style="text-align:center;"> -0.1 </td>
   </tr>
 </tbody>
 </table>
@@ -108,7 +108,8 @@ Inspired by this example, Justin Matejka and George Fitzmaurice (see [here](http
 ``` r
 # Summary statistics for all 13 sets (the original "dino" + 12 variations)
 library(knitr)
-datasaurus %>%
+
+datasaurus_dozen %>%
   group_by(dataset) %>%
   summarise(
     n = n(),
@@ -117,21 +118,172 @@ datasaurus %>%
     mean_y = mean(y),
     sd_y = sd(y),
     cor_xy = cor(x, y),
-    beta_coef = cov(x, y)/var(x)    
+    beta_coef = cov(x, y) / var(x)
   ) %>%
-  knitr::kable(format = "rst", digits = 2)
-
-# Scatter plot of four out of the 13 available sets
-datasaurus %>%
-  filter(dataset %in% c("circle", "h_lines", "star", "slant_up")) %>%
-  ggplot(mapping = aes(x = x, y = y)) +
-  geom_point() +
-  facet_wrap(vars(dataset), nrow = 2)
+  knitr::kable(format = "html", digits = 2, align = "c")
 ```
 
-In real-world applications, one should not expect to plot the data hoping that some extinct reptile will pop up. The takeaway from those examples is that the usual summary statistics can describe a given aspect of the variable of interest but may fail to disentangle more complex patterns.
+<table class="table table-sm">
+  <thead class="thead-light">
+  <tr>
+   <th style="text-align:center;"> dataset </th>
+   <th style="text-align:center;"> n </th>
+   <th style="text-align:center;"> mean_x </th>
+   <th style="text-align:center;"> sd_x </th>
+   <th style="text-align:center;"> mean_y </th>
+   <th style="text-align:center;"> sd_y </th>
+   <th style="text-align:center;"> cor_xy </th>
+   <th style="text-align:center;"> beta_coef </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:center;"> away </td>
+   <td style="text-align:center;"> 142 </td>
+   <td style="text-align:center;"> 54.27 </td>
+   <td style="text-align:center;"> 16.77 </td>
+   <td style="text-align:center;"> 47.83 </td>
+   <td style="text-align:center;"> 26.94 </td>
+   <td style="text-align:center;"> -0.06 </td>
+   <td style="text-align:center;"> -0.10 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> bullseye </td>
+   <td style="text-align:center;"> 142 </td>
+   <td style="text-align:center;"> 54.27 </td>
+   <td style="text-align:center;"> 16.77 </td>
+   <td style="text-align:center;"> 47.83 </td>
+   <td style="text-align:center;"> 26.94 </td>
+   <td style="text-align:center;"> -0.07 </td>
+   <td style="text-align:center;"> -0.11 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> circle </td>
+   <td style="text-align:center;"> 142 </td>
+   <td style="text-align:center;"> 54.27 </td>
+   <td style="text-align:center;"> 16.76 </td>
+   <td style="text-align:center;"> 47.84 </td>
+   <td style="text-align:center;"> 26.93 </td>
+   <td style="text-align:center;"> -0.07 </td>
+   <td style="text-align:center;"> -0.11 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> dino </td>
+   <td style="text-align:center;"> 142 </td>
+   <td style="text-align:center;"> 54.26 </td>
+   <td style="text-align:center;"> 16.77 </td>
+   <td style="text-align:center;"> 47.83 </td>
+   <td style="text-align:center;"> 26.94 </td>
+   <td style="text-align:center;"> -0.06 </td>
+   <td style="text-align:center;"> -0.10 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> dots </td>
+   <td style="text-align:center;"> 142 </td>
+   <td style="text-align:center;"> 54.26 </td>
+   <td style="text-align:center;"> 16.77 </td>
+   <td style="text-align:center;"> 47.84 </td>
+   <td style="text-align:center;"> 26.93 </td>
+   <td style="text-align:center;"> -0.06 </td>
+   <td style="text-align:center;"> -0.10 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> h_lines </td>
+   <td style="text-align:center;"> 142 </td>
+   <td style="text-align:center;"> 54.26 </td>
+   <td style="text-align:center;"> 16.77 </td>
+   <td style="text-align:center;"> 47.83 </td>
+   <td style="text-align:center;"> 26.94 </td>
+   <td style="text-align:center;"> -0.06 </td>
+   <td style="text-align:center;"> -0.10 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> high_lines </td>
+   <td style="text-align:center;"> 142 </td>
+   <td style="text-align:center;"> 54.27 </td>
+   <td style="text-align:center;"> 16.77 </td>
+   <td style="text-align:center;"> 47.84 </td>
+   <td style="text-align:center;"> 26.94 </td>
+   <td style="text-align:center;"> -0.07 </td>
+   <td style="text-align:center;"> -0.11 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> slant_down </td>
+   <td style="text-align:center;"> 142 </td>
+   <td style="text-align:center;"> 54.27 </td>
+   <td style="text-align:center;"> 16.77 </td>
+   <td style="text-align:center;"> 47.84 </td>
+   <td style="text-align:center;"> 26.94 </td>
+   <td style="text-align:center;"> -0.07 </td>
+   <td style="text-align:center;"> -0.11 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> slant_up </td>
+   <td style="text-align:center;"> 142 </td>
+   <td style="text-align:center;"> 54.27 </td>
+   <td style="text-align:center;"> 16.77 </td>
+   <td style="text-align:center;"> 47.83 </td>
+   <td style="text-align:center;"> 26.94 </td>
+   <td style="text-align:center;"> -0.07 </td>
+   <td style="text-align:center;"> -0.11 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> star </td>
+   <td style="text-align:center;"> 142 </td>
+   <td style="text-align:center;"> 54.27 </td>
+   <td style="text-align:center;"> 16.77 </td>
+   <td style="text-align:center;"> 47.84 </td>
+   <td style="text-align:center;"> 26.93 </td>
+   <td style="text-align:center;"> -0.06 </td>
+   <td style="text-align:center;"> -0.10 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> v_lines </td>
+   <td style="text-align:center;"> 142 </td>
+   <td style="text-align:center;"> 54.27 </td>
+   <td style="text-align:center;"> 16.77 </td>
+   <td style="text-align:center;"> 47.84 </td>
+   <td style="text-align:center;"> 26.94 </td>
+   <td style="text-align:center;"> -0.07 </td>
+   <td style="text-align:center;"> -0.11 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> wide_lines </td>
+   <td style="text-align:center;"> 142 </td>
+   <td style="text-align:center;"> 54.27 </td>
+   <td style="text-align:center;"> 16.77 </td>
+   <td style="text-align:center;"> 47.83 </td>
+   <td style="text-align:center;"> 26.94 </td>
+   <td style="text-align:center;"> -0.07 </td>
+   <td style="text-align:center;"> -0.11 </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> x_shape </td>
+   <td style="text-align:center;"> 142 </td>
+   <td style="text-align:center;"> 54.26 </td>
+   <td style="text-align:center;"> 16.77 </td>
+   <td style="text-align:center;"> 47.84 </td>
+   <td style="text-align:center;"> 26.93 </td>
+   <td style="text-align:center;"> -0.07 </td>
+   <td style="text-align:center;"> -0.11 </td>
+  </tr>
+</tbody>
+</table>
 
-If you want to explore this data further, it is available in the standalone datasauRus package (datasauRus::datasaurus_dozen).
+``` r
+# Scatter plot of four out of the 13 available sets
+datasaurus_dozen %>%
+  filter(dataset %in% c("circle", "h_lines", "star", "slant_up")) %>%
+  ggplot(mapping = aes(x = x, y = y)) +
+  geom_point(color = "#336969") +
+  facet_wrap(vars(dataset), nrow = 2)
+```
+    
+<div class = "text-center">
+<img src = "../exhibits/datasaurus_facet.png" class = "img-fluid">
+</div>
+
+In real-world applications, one should not expect to plot the data hoping that some extinct reptile will pop up. The takeaway from those examples is that the usual summary statistics can describe a given aspect of the variable of interest but may fail to disentangle more complex patterns.
 
 ##### Extension: How to find different patterns of data that have common statistical properties
 
