@@ -73,7 +73,10 @@ attach(summary_stats)
 random_data <- mvtnorm::rmvnorm(
   n = 142,
   mean = c(mean_x, mean_y),
-  sigma = matrix(c(sd_x^2, sd_x * sd_y * cor_xy, sd_x * sd_y * cor_xy, sd_y^2), 2))
+  sigma = matrix(c(sd_x^2,
+                   sd_x * sd_y * cor_xy,
+                   sd_x * sd_y * cor_xy,
+                   sd_y^2), 2))
 
 colnames(random_data) <- c("x", "y")
 
