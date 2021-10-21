@@ -13,7 +13,7 @@ Summary statistics are great tools: they reduce a potentially large number of ob
 <!--more-->
 <br>
 
-#### Overview of the datasets
+##### Overview of the datasets
 
 The original datasaurus was designed by Alberto Cairo as a toy example to emphasize the importance of plotting the data (see [thefunctionalart.com](http://www.thefunctionalart.com/2016/08/download-datasaurus-never-trust-summary.html)). The dataset has only two variables (x and y), and their summary statistics are not particularly interesting.
 
@@ -22,7 +22,7 @@ The original datasaurus was designed by Alberto Cairo as a toy example to emphas
 library(dplyr)
 library(datasauRus)
 
-datasaurus_dozen %>%
+summary_stats <- datasaurus_dozen %>%
   filter(dataset == "dino") %>%
   summarise(
     n = n(),
@@ -31,32 +31,33 @@ datasaurus_dozen %>%
     mean_y = mean(y),
     sd_y = sd(y),
     cor_xy = cor(x, y),
-    beta_coef = cov(x, y)/var(x)    
-  ) %>%
-  knitr::kable(format = "rst", digits = 2)
+    beta_coef = cov(x, y) / var(x)
+  )
+
+summary_stats %>% knitr::kable(format = "rst", digits = 2)
 ```
 
 <table class="table table-sm">
   <thead class="thead-light">
   <tr>
-   <th style="text-align:right;"> n </th>
-   <th style="text-align:right;"> mean_x </th>
-   <th style="text-align:right;"> sd_x </th>
-   <th style="text-align:right;"> mean_y </th>
-   <th style="text-align:right;"> sd_y </th>
-   <th style="text-align:right;"> cor_xy </th>
-   <th style="text-align:right;"> beta_coef </th>
+   <th> n </th>
+   <th> mean_x </th>
+   <th> sd_x </th>
+   <th> mean_y </th>
+   <th> sd_y </th>
+   <th> cor_xy </th>
+   <th> beta_coef </th>
   </tr>
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:right;"> 142 </td>
-   <td style="text-align:right;"> 54.26 </td>
-   <td style="text-align:right;"> 16.77 </td>
-   <td style="text-align:right;"> 47.83 </td>
-   <td style="text-align:right;"> 26.94 </td>
-   <td style="text-align:right;"> -0.06 </td>
-   <td style="text-align:right;"> -0.1 </td>
+   <td> 142 </td>
+   <td> 54.26 </td>
+   <td> 16.77 </td>
+   <td> 47.83 </td>
+   <td> 26.94 </td>
+   <td> -0.06 </td>
+   <td> -0.1 </td>
   </tr>
 </tbody>
 </table>
@@ -66,19 +67,24 @@ In fact, if you were to imagine that those 142 observations come from a bivariat
 ``` r
 # Generate random data under the known summary stats
 library(mvtnorm)
-my_data <- mvtnorm::rmvnorm(n = 142,
-                            mean = c(54.26, 47.83),
-                            sigma = matrix(c(16.76 ^ 2, 16.76 * 26.93 * -0.06, 16.76 * 26.93 * -0.06, 26.93 ^ 2), 2))
+attach(summary_stats)
 
-colnames(my_data) <- c("x", "y")
+random_data <- mvtnorm::rmvnorm(
+  n = 142,
+  mean = c(mean_x, mean_y),
+  sigma = matrix(c(sd_x^2, sd_x * sd_y * cor_xy, sd_x * sd_y * cor_xy, sd_y^2), 2))
+
+colnames(random_data) <- c("x", "y")
 
 # Potential scatter plot under known summary stats
 library(ggplot2)
-my_data %>%
+
+random_data %>%
   as.data.frame() %>%
   ggplot(aes(x = x, y = y)) +
-  geom_point()
+  geom_point(color = "#336969")
 ```
+
 <div class = "text-center">
 <img src = "../exhibits/random_dino.png" class = "img-fluid">
 </div>
@@ -87,11 +93,15 @@ And yet this is the unexpected scatter plot of the datasaurus:
 
 ``` r
 # Scatter plot of Cairo's datasaurus
-datasaurus %>%
+datasaurus_dozen %>%
   filter(dataset == "dino") %>%
   ggplot(aes(x = x, y = y)) +
-  geom_point()
+  geom_point(color = "#336969")
 ```
+
+<div class = "text-center">
+<img src = "../exhibits/datasaurus.png" class = "img-fluid">
+</div>
 
 Inspired by this example, Justin Matejka and George Fitzmaurice (see [here](https://www.autodesk.com/research/publications/same-stats-different-graphs)) extended the idea and built another 12 datasets (a.k.a. "the datasaurus dozen"), all of them sharing nearly the same basic summary statistics but representing a wide variety of (x, y) patterns:
 
@@ -123,7 +133,7 @@ In real-world applications, one should not expect to plot the data hoping that s
 
 If you want to explore this data further, it is available in the standalone datasauRus package (datasauRus::datasaurus_dozen).
 
-#### Extension: How to find different patterns of data that have common statistical properties
+##### Extension: How to find different patterns of data that have common statistical properties
 
 The experienced reader will notice that these sets are similar in spirit to the classic Anscombe's Quartet. This "modern" version is more appealing in the sense that it has more points per set (142 in the datasaurus' case versus 11 in Anscombe's), making the statistical coincidence more striking to the student. The datasaurus dozen also makes it more salient that the limitation of the summary measures is not simply due to an insufficiently small number of points.
 
