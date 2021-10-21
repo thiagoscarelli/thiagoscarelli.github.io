@@ -79,6 +79,9 @@ my_data %>%
   ggplot(aes(x = x, y = y)) +
   geom_point()
 ```
+<div class = "text-center">
+<img src = "../exhibits/random_dino.png" class = "img-fluid">
+</div>
 
 And yet this is the unexpected scatter plot of the datasaurus:
 
