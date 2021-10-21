@@ -11,8 +11,8 @@ tags:
 Summary statistics are great tools: they reduce a potentially large number of observations down to a single number that is easy to interpret and communicate. This feature justifies the widespread popularity of averages and correlations, from introductory statistics courses and newspaper articles to scientific papers. The caveat is that they are usually insufficient to tell the whole history, as it is nicely illustrated by a group of datasets known as the "datasaurus dozen".
 
 <!--more-->
-<br>
 
+<br>
 ##### Overview of the datasets
 
 The original datasaurus was designed by Alberto Cairo as a toy example to emphasize the importance of plotting the data (see [thefunctionalart.com](http://www.thefunctionalart.com/2016/08/download-datasaurus-never-trust-summary.html)). The dataset has only two variables (x and y), and their summary statistics are not particularly interesting.
@@ -62,6 +62,7 @@ summary_stats %>% knitr::kable(format = "rst", digits = 2)
 </tbody>
 </table>
 
+<br>
 In fact, if you were to imagine that those 142 observations come from a bivariate normal distribution, their summary statistics could well suggest something like this:
 
 ``` r
@@ -89,6 +90,7 @@ random_data %>%
 <img src = "../exhibits/random_dino.png" class = "img-fluid">
 </div>
 
+<br>
 And yet this is the unexpected scatter plot of the datasaurus:
 
 ``` r
@@ -103,6 +105,7 @@ datasaurus_dozen %>%
 <img src = "../exhibits/datasaurus.png" class = "img-fluid">
 </div>
 
+<br>
 Inspired by this example, Justin Matejka and George Fitzmaurice (see [here](https://www.autodesk.com/research/publications/same-stats-different-graphs)) extended the idea and built another 12 datasets (a.k.a. "the datasaurus dozen"), all of them sharing nearly the same basic summary statistics but representing a wide variety of (x, y) patterns:
 
 ``` r
@@ -283,8 +286,10 @@ datasaurus_dozen %>%
 <img src = "../exhibits/datasaurus_facet.png" class = "img-fluid">
 </div>
 
+<br>
 In real-world applications, one should not expect to plot the data hoping that some extinct reptile will pop up. The takeaway from those examples is that the usual summary statistics can describe a given aspect of the variable of interest but may fail to disentangle more complex patterns.
 
+<br>
 ##### Extension: How to find different patterns of data that have common statistical properties
 
 The experienced reader will notice that these sets are similar in spirit to the classic Anscombe's Quartet. This "modern" version is more appealing in the sense that it has more points per set (142 in the datasaurus' case versus 11 in Anscombe's), making the statistical coincidence more striking to the student. The datasaurus dozen also makes it more salient that the limitation of the summary measures is not simply due to an insufficiently small number of points.
