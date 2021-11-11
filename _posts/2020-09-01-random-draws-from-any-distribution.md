@@ -149,6 +149,4 @@ The CDF, by definition, maps every possible value a function can take into the i
 <br>
 <hr>
 
-Is it helpful? Is there a mistake somewhere? Did I miss something important? Let me know :)
-
-*Updated on 25-10-2020*
+*Last updated on 25-10-2020*

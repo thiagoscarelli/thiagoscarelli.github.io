@@ -18,7 +18,7 @@ By definition, most of the time during the Ph.D. is invested in finding question
 
 How to start? Where can one find new ideas? How to best allocate the time? How to write a nice paper? Those can be paralyzing fears. The good news is that a lot of people have done it before and they have been kind enough to share their wisdom. Some of the best advice I encountered so far came from people on the internet who I've never met, so I decided that the best way to thank them (and to help others in the same situation I am) is just to spread their good word.
 
-Hence, here's a short collection of helpful resources from smart people on how to survive your graduate studies. Most of it is aimed at economists, but there should be useful bits to students in other fields as well. Take the time to go over their full documents, it does pay off!
+Hence, here's a short collection of helpful resources from smart people on how to survive your graduate studies. Most of it is aimed at economists, but there should be useful bits to students in other fields as well.
 
 <br>
 <hr>
@@ -51,15 +51,4 @@ Hence, here's a short collection of helpful resources from smart people on how t
 <br>
 <hr>
 
-- But don't worry too much. In the end, [**grad school is just like kindergarten**, by PhD comics](http://phdcomics.com/comics/archive.php?comicid=1286).
-
-<div class = "text-center">
-<img src = "../exhibits/phd030110s.gif" class = "img-fluid">
-</div>
-
-<br>
-<hr>
-
-Is it helpful? Is there a mistake somewhere? Did I miss something important? Let me know :)
-
-*Updated on 16-08-2020*
+*Last updated on 21-10-2021*

@@ -1,7 +1,7 @@
 
 command prompt
 
-cd C:\Users\t.scarelli\thiagoscarelli.github.io
+cd C:\Users\t.scarelli\github\thiagoscarelli.github.io
 
 jekyll serve
 
