@@ -1,5 +1,5 @@
 
-command prompt
+command prompt>
 
 cd C:\Users\t.scarelli\github\thiagoscarelli.github.io
 
