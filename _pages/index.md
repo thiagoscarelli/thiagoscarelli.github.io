@@ -19,24 +19,3 @@ Current research focuses on the occupational choice of own-account workers in Br
 Working papers can be found in the [research section]({{ site.baseurl}}{% link _pages/research.md %}).
 
 Comments and queries are welcome at <em>thiago.scarelli [at] psemail.eu</em>.
-
-<!---
-<br>
-
-#### Updates
-
-<hr>
-
-<ul>
-  {% for post in site.posts limit:3 %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
-
-
-{% for post in site.posts limit:3 %}
-{% include components/post-card.html %}
-{% endfor %}
---->
