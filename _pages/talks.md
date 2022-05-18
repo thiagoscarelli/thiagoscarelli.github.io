@@ -4,6 +4,14 @@ permalink: talks.html
 title: Recent talks and presentations
 ---
 
+#### 2022
+<hr>
+
+<b>[When You Can't Afford to Wait for a Job: The Role of Time Discounting for Own-Account Workers in Developing Countries.](../docs/scarelli_margolis_oaw_slides.pdf){:target="_blank"}</b>
+
+**Society of Labor Economists (SOLE) Annual Meeting 2022**.
+
+<br>
 #### 2021
 <hr>
 
