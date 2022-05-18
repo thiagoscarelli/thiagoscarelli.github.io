@@ -9,7 +9,7 @@ title: Recent talks and presentations
 
 <b>[When You Can't Afford to Wait for a Job: The Role of Time Discounting for Own-Account Workers in Developing Countries.](../docs/scarelli_margolis_oaw_slides.pdf){:target="_blank"}</b>
 
-**SOLE Annual Meeting 2022**, Society of Labor Economists, Minneapolis, US.
+**SOLE Annual Meeting 2022**, Society of Labor Economists (Minneapolis, US).
 
 <br>
 #### 2021
@@ -17,7 +17,7 @@ title: Recent talks and presentations
 
 <b>[When You Can't Afford to Wait for a Job: The Role of Time Discounting for Own-Account Workers in Developing Countries.](https://hal-pse.archives-ouvertes.fr/halshs-03288728v1){:target="_blank"}</b>
 
-**Atelier d'Introduction à la Recherche**, École Normale Supérieure, Paris, France (invited speaker).
+**Atelier d'Introduction à la Recherche**, École Normale Supérieure (Paris, France). Invited speaker.
 
 <br>
 #### 2020
@@ -25,16 +25,16 @@ title: Recent talks and presentations
 
 <b>[When You Can't Afford to Wait for a Job: The Role of Time Discounting for Own-Account Workers in Developing Countries.](https://hal-pse.archives-ouvertes.fr/halshs-03288728v1){:target="_blank"}</b>
 
-**3rd Annual IZA/World Bank/NJD/UNU-WIDER Jobs and Development Conference**, online.
+**3rd Annual IZA/World Bank/NJD/UNU-WIDER Jobs and Development Conference** (online).
 
-**Casual Friday Development Seminar**, Paris School of Economics, Paris, France.
+**Casual Friday Development Seminar**, Paris School of Economics (Paris, France).
 
 <br>
 <hr>
 
 <b>[Research Biases in Social Sciences: An Overview of Common Cases and How to Avoid Them.](../docs/2020_03_06_presentation_research_biases.pdf){:target="_blank"}</b>
 
-**Research Club Talk**, Maison de L'Inde, Cité Internationale Universitaire de Paris, Paris, France.
+**Research Club Talk**, Maison de L'Inde, Cité Internationale Universitaire de Paris (Paris, France).
 
 <br>
 #### 2018
@@ -42,4 +42,4 @@ title: Recent talks and presentations
 
 <b>[What are the Effects of Online Job Search on the Labor Market?](../docs/2018_07_18_presentation_online_job_search.pdf){:target="_blank"}</b>
 
-**Cycle de Conférences de la Maison du Brésil**, Cité Internationale Universitaire de Paris, Paris, France.
+**Cycle de Conférences de la Maison du Brésil**, Cité Internationale Universitaire de Paris (Paris, France).
