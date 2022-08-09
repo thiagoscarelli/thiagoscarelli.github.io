@@ -12,7 +12,9 @@ title: Teaching activities
 
 - Undergraduate level course, taught in English.
 
+<!---
 - [Syllabus available here.](../docs/2021_spring_statistics.pdf){:target="_blank"}
+-->
 
 <br>
 
