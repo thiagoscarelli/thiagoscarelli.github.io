@@ -8,8 +8,8 @@
 - title: Teaching
   href: teaching.html
 
-- title: Talks
-  href: talks.html
+#- title: Talks
+#  href: talks.html
 
 - title: Blog
   href: blog.html
