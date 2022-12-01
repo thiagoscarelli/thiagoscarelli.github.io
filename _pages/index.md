@@ -12,10 +12,6 @@ show_profile: true
 
 Ph.D. candidate at the Paris School of Economics (PSE). [Curriculum vitae here](../docs/thiago_scarelli_cv.pdf){:target="_blank"}.
 
-My main interest is to use the tools from labor and behavior economics to investigate questions that are relevant to developing countries.
-
-Current research focuses on the occupational choice of own-account workers in Brazil. What share of them can be considered as constrained workers? Why some choose to look for a better job while others remain working on their own, despite the relatively low labor income they receive?
-
-Working papers can be found in the [research section]({{ site.baseurl}}{% link _pages/research.md %}).
+My research uses quantitative methods to investigate questions that are relevant to low- and middle-income countries.
 
 Comments and queries are welcome at <em>thiago.scarelli [at] psemail.eu</em>.
