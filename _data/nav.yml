@@ -2,8 +2,8 @@
 - title: Home
   href: index.html
 
-- title: Research
-  href: research.html
+#- title: Research
+#  href: research.html
 
 - title: Teaching
   href: teaching.html
