@@ -8,7 +8,7 @@ title: Teaching activities
 
 <hr>
 
-<b>Applied Statistics in the Humanities and Social Sciences</b> (Spring 2020 & 2021).
+<b>Applied Statistics in the Humanities and Social Sciences</b> (Spring 2020 & 21).
 
 - Undergraduate level course, taught in English.
 
