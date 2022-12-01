@@ -22,24 +22,24 @@ title: Teaching activities
 
 <hr>
 
-<b>Introduction à l'Économétrie</b> (Spring 2020 & 2021), <em>with Catherine Doz and Tobias Broer</em>.
+<b>Introduction à l'Économétrie</b> (Spring 2020 & 21), <em>with Catherine Doz and Tobias Broer</em>.
 
 - Undergraduate level course, taught in French and in English.
 
 <br>
 
-<b>Econométrie appliquée</b> (Fall 2020 & 2021), <em>with Clément Bosquet</em>.
+<b>Econométrie appliquée</b> (Fall 2020 & 21), <em>with Clément Bosquet</em>.
 
 - Masters level course, taught in French and in English.
 
 <br>
 
-<b>Statistiques Descriptives</b> (Fall 2020), <em>with Liza Charroin, Patricia Vornetti and Jérôme Glachant</em>.
+<b>Statistiques Descriptives</b> (Fall 2020 & 21), <em>with Liza Charroin, Patricia Vornetti and Jérôme Glachant</em>.
 
 - Undergraduate level course, taught in French.
 
 <br>
 
-<b>Statistiques : Probabilité</b> (Fall 2019), <em>with Delphine Brochard and Éric Defebvre</em>.
+<b>Statistiques : Probabilité</b> (Fall 2019 & 22), <em>with Delphine Brochard and Éric Defebvre</em>.
 
 - Undergraduate level course, taught in French.
