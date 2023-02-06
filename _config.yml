@@ -42,6 +42,7 @@ defaults:
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-redirect-from
 
 logo:   /theme/img/thiago-scarelli.jpg
 url:    https://thiagoscarelli.github.io/
