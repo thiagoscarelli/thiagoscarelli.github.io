@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: index.html
+permalink: former_index.html
 title: Home
 show_title: false
 show_profile: true
