@@ -1,0 +1,15 @@
+
+- title: Home
+  href: index.html
+
+#- title: Research
+#  href: research.html
+
+- title: Teaching
+  href: teaching.html
+
+#- title: Talks
+#  href: talks.html
+
+- title: Blog
+  href: blog.html
