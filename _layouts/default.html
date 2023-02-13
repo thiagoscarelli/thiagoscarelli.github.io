@@ -1,23 +1,25 @@
 
 <!doctype html>
 <html lang = "en">
-<html>
 
-	<head>
-		<meta charset = "utf-8">
-		<link rel = "stylesheet" href = "/assets/css/styles.css">
-		<title>{{page.title}}</title>
-	</head>
+{% assign sep = "&nbsp;|&nbsp;" %}
 
-	<body>
-		<div>{% include header.html %}</div>
+{% include head.html %}
 
-		<div>{{ content }}</div>
+{% include scripts.html %}
 
-		<div>{% include footer.html %}</div>
+<body>
 
-		{% include scripts.html %}
+<div class="content">
 
-	</body>
+{% include nav.html %}
+
+{{ content }}
+
+</div>
+
+{% include footer.html %}
+
+</body>
 
 </html>

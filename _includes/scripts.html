@@ -1,9 +1,9 @@
 
+<!-- Use MathJax where needed -->
 {% if page.mathjax %}
 <script type="text/javascript" async
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
-{% endif %}
 
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
@@ -16,4 +16,15 @@
     },
     "HTML-CSS": { availableFonts: ["TeX"] }
   });
+</script>
+{% endif %}
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src = "https://www.googletagmanager.com/gtag/js?id=UA-175203179-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-175203179-1'); // Universal Analytics Property ID
+    gtag('config', 'G-341808089'); // Google Analytics Property ID    
 </script>

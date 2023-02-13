@@ -1,0 +1,29 @@
+<div class="nav">
+
+<h1>{{site.title}}</h1>
+
+{% if page.title == "Thiago Scarelli" %}
+<strong><a href="/">About</a></strong> {{ sep }}
+{% else %}
+<a href = "/">About</a> {{ sep }}
+{% endif %}
+
+{% if page.title == "Research" %}
+<strong><a href = "/research">Research</a></strong> {{ sep }}
+{% else %}
+<a href = "/research">Research</a> {{ sep }}
+{% endif %}
+
+{% if page.title == "Teaching" %}
+<strong><a href = "/teaching">Teaching</a></strong> {{ sep }}
+{% else %}
+<a href = "/teaching">Teaching</a> {{ sep }}
+{% endif %}
+
+{% if page.title == "Thiago Scarelli" or page.title == "Research" or page.title == "Teaching"%}
+<a href = "/posts">Posts</a>
+{% else %}
+<strong><a href = "/posts">Posts</a></strong>
+{% endif %}
+
+</div>
