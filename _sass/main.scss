@@ -13,9 +13,10 @@ body {
     background-color: #f2efed;
     margin: auto;
     width: 85%;
-    max-width: 600px;
+    max-width: 620px;
     display: flex;
     flex-direction: column;
+    overflow-y: scroll;
 }
 
 h1 {
@@ -60,7 +61,7 @@ hr {
 }
 
 .nav{
-    padding-top: 0px;
+    padding-top: $basepadding;
     padding-bottom: $basepadding;
     border-bottom: solid;
     border-width: 3px;
@@ -76,6 +77,7 @@ hr {
     border-width: 3px;
     border-color: #1c1c1c;
     flex-shrink: 0;
+    margin-top: $basepadding;
 }
 
 .center {
