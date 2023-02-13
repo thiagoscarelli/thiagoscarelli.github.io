@@ -2,9 +2,10 @@
 layout: default
 ---
 
+{% include math_scripts.html %}
+
 <h2>{{ page.title }}</h2>
 
 <p style="text-align: left; font-style: italic; padding-bottom:16px">{{ page.date | date_to_string }}</p>
-
 
 {{content}}
