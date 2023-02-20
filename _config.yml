@@ -9,9 +9,7 @@
 # Site
 title: Thiago Scarelli
 author: Thiago Scarelli
-description: >- # this means to ignore newlines until "baseurl:"
-  Thiago Scarelli is a Ph.D. candidate at the Paris School of Economics (PSE) and Université Paris 1 Panthéon-Sorbonne.
-  My current research projects investigate the structure of labor markets in low and middle-income countries, with a particular interest in the relationship between financial stress and own-account work.
+description: Thiago Scarelli is a Ph.D. candidate at PSE. My research studies labor markets in low and middle-income countries, with a particular interest in the relationship between financial stress and own-account work.
 domain: thiagoscarelli.github.io
 url: https://thiagoscarelli.github.io
 lang: en_US

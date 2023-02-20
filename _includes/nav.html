@@ -2,7 +2,7 @@
 
 <h1>{{site.title}}</h1>
 
-{% if page.title == "Thiago Scarelli" %}
+{% if page.title == "About" %}
 <strong><a href="/">About</a></strong> {{ sep }}
 {% else %}
 <a href = "/">About</a> {{ sep }}
@@ -20,7 +20,7 @@
 <a href = "/teaching">Teaching</a> {{ sep }}
 {% endif %}
 
-{% if page.title == "Thiago Scarelli" or page.title == "Research" or page.title == "Teaching"%}
+{% if page.title == "About" or page.title == "Research" or page.title == "Teaching"%}
 <a href = "/posts">Posts</a>
 {% else %}
 <strong><a href = "/posts">Posts</a></strong>

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Thiago Scarelli"
+title: "About"
 ---
 
 <img
