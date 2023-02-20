@@ -6,6 +6,6 @@ layout: default
 
 <h2>{{ page.title }}</h2>
 
-<p style="text-align: left; font-style: italic; padding-bottom:16px">{{ page.date | date_to_string }}</p>
+<p style="text-align: left; font-style: italic; padding-bottom:16px">{{ page.date | date:"%b. %Y" }}</p>
 
 {{content}}
