@@ -11,4 +11,4 @@ This is a short technical guide for typesetting with LaTeX. The objective is to 
 
 The document covers general structure, text formatting, math, floats, and reference management. Extra packages are mentioned where needed.
 
-[Download the annotated guide (in pdf)](https://thiagoscarelli.github.io/assets/pdfs/latex_annotated_reference_guide.pdf){:target="_blank" rel="noopener"}
+[Download the annotated guide (in pdf)](https://thiagoscarelli.github.io/assets/pdfs/latex_reference_notes.pdf){:target="_blank" rel="noopener"}
