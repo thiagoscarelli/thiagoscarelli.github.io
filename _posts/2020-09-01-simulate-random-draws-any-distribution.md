@@ -104,7 +104,7 @@ library(ggplot2)
 ggplot(as.data.frame(exp_i)) + geom_density(aes(x = exp_i))
 ```
 
-<img class = "center" src = "/assets/images/simulation_exponential_R.png">
+<img src = "https://thiagoscarelli.github.io/assets/images/simulation_exponential_R.png" class = "full">
 
 If you check the mean and the standard deviation of <kbd>exp_i</kbd>, you should find values close to 0.5 (or, in general, $1/\lambda$). Furthermore, the distribution created this way converges to what you would obtain using R's function <kbd>rexp(n = 100000, rate = 2)</kbd>. After all, what the software is doing under the hood is similar to what we are doing explicitly.
 
@@ -126,7 +126,7 @@ gen exp_i = -log(1 - u_i) / lambda
 * A density plot with the simulated values
 kdensity exp_i
 ```
-<img class = "center" src = "/assets/images/simulation_exponential_stata.png">
+<img src = "https://thiagoscarelli.github.io/assets/images/simulation_exponential_stata.png"  class = "full">
 
 Again, the results are similar to what one would obtain with Stata's own <kbd>rexponential(2)</kbd>.
 
@@ -136,4 +136,4 @@ More importantly, the same strategy goes beyond the exponential case and can be 
 
 The CDF, by definition, maps every possible value a function can take into the interval between 0 and 1. Intuitively, the strategy above uses this property: it reverts the mapping from the interval [0, 1] back to the support of the function. The shape of $F^{-1}(\cdot)$ alone is enough to make more frequent values of $x_i$ appear more often, even if every $u_i$ has the same probability of occurring.
 
-<img class = "center" src = "/assets/images/simulation_why.png">
+<img src = "https://thiagoscarelli.github.io/assets/images/simulation_why.png"  class = "full">

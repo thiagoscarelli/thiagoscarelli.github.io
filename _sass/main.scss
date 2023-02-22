@@ -63,6 +63,54 @@ hr {
     background-color: #1c1c1c;
 }
 
+pre {
+    background: #1c4953;
+    color: #ffffff;
+    page-break-inside: avoid;
+    font-family: monospace;
+    font-size: 14px;
+    line-height: 1.5;
+    max-width: 100%;
+    overflow: auto;
+    padding: $basepadding $basepadding;
+    display: block;
+    word-wrap: break-word;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    object-fit: contain;
+}
+
+img.full {
+    width: 100%;
+    height: 100%;
+}
+
+img.default {
+    max-width: 400px;
+    width: 80%;
+    height: 80%;
+}
+
+table, th, td {
+    border-collapse: collapse;
+    border: 0px;
+    text-align: center;
+    vertical-align: middle;
+    padding: 6px;
+}
+
+th {
+    background-color: #1c4953;
+    color: white;
+}
+
+tr:nth-child(even){background-color: #ececeb;}
+tr:nth-child(odd){background-color: #ffffff;}
+
 .content {
   flex: 1 0 auto;
 }
@@ -96,16 +144,12 @@ hr {
   padding-bottom: $basepadding;
 }
 
-pre {
-    background: #1c4953;
-    color: #ffffff;
-    page-break-inside: avoid;
-    font-family: monospace;
-    font-size: 14px;
-    line-height: 1.5;
-    max-width: 100%;
-    overflow: auto;
-    padding: $basepadding $basepadding;
-    display: block;
-    word-wrap: break-word;
+.tabcenter {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container {
+  overflow-x: auto;
+  overflow-y: auto;
 }
