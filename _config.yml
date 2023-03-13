@@ -8,7 +8,6 @@
 
 # Site
 title: Thiago Scarelli
-name: Thiago Scarelli
 author: Thiago Scarelli
 description: Thiago Scarelli is a Ph.D. candidate at PSE. My research studies labor markets in low and middle-income countries, with a particular interest in the relationship between financial stress and own-account work.
 domain: thiagoscarelli.github.io
@@ -17,13 +16,17 @@ lang: en_US
 locale: en_US
 
 # Social
+name: Thiago Scarelli
 email: thiago.scarelli@psemail.eu
 twitter_user: tscarelli
 github_user: thiagoscarelli
 orcid_user: '0000-0003-2014-2084'
 stackoverflow_user: 9734152/thiago
 linkedin_user: 'thiago-scarelli'
-google_site_verification: UK5Z3DkjNFOe8U_y4pFUaSc0cqYigDf3_JDHUIljLhM
+
+# Verification
+webmaster_verifications:
+  google: UK5Z3DkjNFOe8U_y4pFUaSc0cqYigDf3_JDHUIljLhM
 
 # Jekyll
 permalink: /:year/:month/:title/
