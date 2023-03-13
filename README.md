@@ -7,4 +7,4 @@ This original website template is licensed under a
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 
-In short: you are free to share and adapt, given that: you provide appropriate credit; you don't use it for commercial purposes; and you distribute your contributions under the same license.
+In short, you are free to share and adapt, given that you provide appropriate credit; you don't use it for commercial purposes; and you distribute your contributions under the same license.
