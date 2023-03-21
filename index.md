@@ -11,9 +11,7 @@ style="float: left;
     padding-bottom: 16px;
     width: 130px;">
 
-I'm a Ph.D. candidate at the [Paris School of Economics (PSE) + Université Paris 1 Panthéon-Sorbonne](https://www.parisschoolofeconomics.eu/en/scarelli-thiago/){:target="_blank" rel="noopener"}, under the supervision of David N. Margolis.
-
-I'm currently a visiting researcher at the Department of Economics of the University of Chicago, working with John List.
+I'm a Ph.D. candidate at the [Paris School of Economics (PSE) + Université Paris 1 Panthéon-Sorbonne](https://www.parisschoolofeconomics.eu/en/scarelli-thiago/){:target="_blank" rel="noopener"}, supervised by David N. Margolis. I'm currently a visiting researcher at the University of Chicago, working with John List.
 
 My research focuses on the different forms of labor market participation in low and middle-income countries. My current projects investigate the relationship between own-account work and financial stress using structural econometrics and causal inference.
 
