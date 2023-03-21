@@ -11,7 +11,7 @@ Frictional labor markets impose a fundamental trade-off: individuals may work on
 
 [Research poster](https://thiagoscarelli.github.io/assets/pdfs/scarelli_margolis_oaw_poster_eale_2022.pdf){:target="_blank" rel="noopener"}
 &nbsp;\|&nbsp;
-[Working Paper](https://www.iza.org/publications/dp/15926/when-you-cant-afford-to-wait-for-a-job-the-role-of-time-discounting-for-own-account-workers-in-developing-countries){:target="_blank" rel="noopener"}
+[Working Paper](https://econpapers.repec.org/paper/izaizadps/dp15926.htm){:target="_blank" rel="noopener"}
 
 ### Occupations and Wealth in Developing Countries
 
@@ -19,4 +19,4 @@ To what extent the workers' occupational category (whether someone is an employe
 
 [Plot with main results](https://thiagoscarelli.github.io/assets/images/oaw_poverty_plot.png){:target="_blank" rel="noopener"}
 &nbsp;\|&nbsp;
-[Working Paper](https://shs.hal.science/halshs-03779266v1){:target="_blank" rel="noopener"}
+[Working Paper](https://econpapers.repec.org/paper/halwpaper/halshs-03779266.htm){:target="_blank" rel="noopener"}
