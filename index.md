@@ -17,4 +17,4 @@ My research focuses on the different forms of labor market participation in low 
 
 Before joining PSE, I worked in the finance sector and as a journalist in Brazil. I have a BA in Economics and a BA in Journalism, both from the Universidade de São Paulo (USP), and a Master's degree in Economics from PSE + École des Hautes Études en Sciences Sociales (EHESS).
 
-[CV](https://thiagoscarelli.github.io/assets/pdfs/thiago_scarelli_cv.pdf){:target="_blank" rel="noopener"}
+[View CV](https://thiagoscarelli.github.io/assets/pdfs/thiago_scarelli_cv.pdf){:target="_blank" rel="noopener"}
