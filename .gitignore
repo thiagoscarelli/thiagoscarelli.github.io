@@ -2,5 +2,7 @@ _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
+.Rproj.user
 vendor
 deployment_notes.txt
+thiagoscarelli.github.io.Rproj
