@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nice RCT estimators can be misleading with a wrong theory -- an example"
-date: 2023-04-16
+date: 2023-03-16
 ---
 
 Here's a fictional example where an RCT would provide a nice, unbiased effect -- and yet could lead to wrong conclusions. The story takes place in a generic airport. First-class passengers board the airplane and arrange their bags.
@@ -16,4 +16,4 @@ The manager also decides that everything else, including the number of 1st, 2nd,
 
 The results are in, and a team of statisticians concludes: flights with 3rd-class passengers are more likely to depart late, lots of stars on the table. Armed with causal powers, the manager concedes that the 3rd class people were indeed the root of the problem. Right?
 
-*Originally published [here](https://twitter.com/tscarelli/status/1647756318583799809?s=20){:target="_blank" rel="noopener"}.*
+*Also published [here](https://twitter.com/tscarelli/status/1647756318583799809?s=20){:target="_blank" rel="noopener"}.*
