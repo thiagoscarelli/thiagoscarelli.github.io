@@ -5,7 +5,7 @@ title: Teaching
 
 ## Sciences Po
 
-**Statistics Applied to Social Sciences.** <br> Adjunct Professor, Bachelor level, in English, Spring 2020 & 21. <br> [Course syllabus available here.](https://thiagoscarelli.github.io/assets/pdfs/scarelli_stats_intro_syllabus_scp.pdf){:target="_blank" rel="noopener"}
+**Statistics Applied to Social Sciences.** <br> Adjunct Professor, Bachelor level, in English, Spring 2020 & 21. <br> [Course syllabus.](https://thiagoscarelli.github.io/assets/pdfs/scarelli_stats_intro_syllabus_scp.pdf){:target="_blank" rel="noopener"}
 
 <br>
 
