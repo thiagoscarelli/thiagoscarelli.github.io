@@ -5,6 +5,8 @@ title: Research
 
 ## Publications
 
+---
+
 ### [Occupations and Wealth in Developing Countries](https://doi.org/10.3917/edd.362.0127){:target="_blank" rel="noopener"}
 
 *Revue d'économie du développement*, vol. 31 (2–3), pp. 127–35, 2022
@@ -18,6 +20,8 @@ To what extent the workers' occupational category (whether someone is an employe
 ---
 
 ## Research in progress
+
+---
 
 ### Financial Constraints and Worker’s Preference over Payment Schedules: Evidence from Ridesharing Drivers
 
