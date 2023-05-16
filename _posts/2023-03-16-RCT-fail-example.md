@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nice RCT estimators can be misleading with a wrong theory -- an example"
+title: "RCT estimators can be misleading with a wrong theory - an example"
 date: 2023-03-16
 ---
 
