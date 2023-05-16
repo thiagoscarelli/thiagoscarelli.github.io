@@ -5,8 +5,6 @@ title: Research
 
 ## Publications
 
----
-
 ### [Occupations and Wealth in Developing Countries](https://doi.org/10.3917/edd.362.0127){:target="_blank" rel="noopener"}
 
 *Revue d'économie du développement*, vol. 31 (2–3), pp. 127–35, 2022
@@ -21,13 +19,11 @@ To what extent the workers' occupational category (whether someone is an employe
 
 ## Research in progress
 
----
-
 ### Financial Constraints and Worker’s Preference over Payment Schedules: Evidence from Ridesharing Drivers
 
 This paper investigates how much workers value a short delay-to-pay and how their financial conditions affect this preference. Leveraging a nationwide experimental survey of ridesharing drivers in Brazil, I document three key findings. First, this population strongly prefers a work arrangement that pays shortly after a task, compared with the alternative of earning a larger amount with a month's delay. Second, individuals from the poorest households are more likely to prioritize quick payment schemes. Finally, the workers' choices when facing this trade-off are affected by how they frame their household liquidity.
 
----
+<br><br>
 
 ### When You Can’t Afford to Wait for a Job: The Role of Time Discounting for Own-Account Workers in Developing Countries (with David N. Margolis)
 
