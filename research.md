@@ -5,7 +5,7 @@ title: Research
 
 ## Publications
 
-### [Occupations and Wealth in Developing Countries](https://doi.org/10.3917/edd.362.0127){:target="_blank" rel="noopener"} <br> *Revue d'économie du développement*, vol. 31 (2–3), pp. 127–35, 2022
+<h3> [Occupations and Wealth in Developing Countries](https://doi.org/10.3917/edd.362.0127){:target="_blank" rel="noopener"} </h3> <br> *Revue d'économie du développement*, vol. 31 (2–3), pp. 127–35, 2022
 
 To what extent the workers' occupational category (whether someone is an employer, an employee, an own-account worker, or an unpaid family worker) is associated with their material living conditions? Motivated by this question, this short paper looks at the distribution of employment categories over different wealth levels in 1,313 regions from 46 low- and middle-income countries. We find that, despite a wide diversity in the composition of those markets, own-account and family workers are consistently overrepresented among the poorest members of the employed population.
 
