@@ -5,17 +5,15 @@ title: Research
 
 ## Publications
 
-### Occupations and Wealth in Developing Countries
+### [Occupations and Wealth in Developing Countries](https://doi.org/10.3917/edd.362.0127){:target="_blank" rel="noopener"}
 
-*[Revue d'économie du développement](https://doi.org/10.3917/edd.362.0127){:target="_blank" rel="noopener"}*, vol. 31 (2–3), pp. 127–35, 2022
+*Revue d'économie du développement*, vol. 31 (2–3), pp. 127–35, 2022
 
 To what extent the workers' occupational category (whether someone is an employer, an employee, an own-account worker, or an unpaid family worker) is associated with their material living conditions? Motivated by this question, this short paper looks at the distribution of employment categories over different wealth levels in 1,313 regions from 46 low- and middle-income countries. We find that, despite a wide diversity in the composition of those markets, own-account and family workers are consistently overrepresented among the poorest members of the employed population.
 
-[Full paper]
+[Paper](https://doi.org/10.3917/edd.362.0127){:target="_blank" rel="noopener"}
 &nbsp;\|&nbsp;
 [Plot with main results](https://thiagoscarelli.github.io/assets/images/oaw_poverty_plot.png){:target="_blank" rel="noopener"}
-&nbsp;\|&nbsp;
-[Working paper](https://econpapers.repec.org/paper/halwpaper/halshs-03779266.htm){:target="_blank" rel="noopener"}
 
 ---
 
@@ -24,6 +22,8 @@ To what extent the workers' occupational category (whether someone is an employe
 ### Financial Constraints and Worker’s Preference over Payment Schedules: Evidence from Ridesharing Drivers
 
 This paper investigates how much workers value a short delay-to-pay and how their financial conditions affect this preference. Leveraging a nationwide experimental survey of ridesharing drivers in Brazil, I document three key findings. First, this population strongly prefers a work arrangement that pays shortly after a task, compared with the alternative of earning a larger amount with a month's delay. Second, individuals from the poorest households are more likely to prioritize quick payment schemes. Finally, the workers' choices when facing this trade-off are affected by how they frame their household liquidity.
+
+---
 
 ### When You Can’t Afford to Wait for a Job: The Role of Time Discounting for Own-Account Workers in Developing Countries (with David N. Margolis)
 
