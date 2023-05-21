@@ -2,11 +2,6 @@
 title: "The transformation issue: predicting in level after fitting in log"
 layout: post
 author: Thiago Scarelli
-lang: en_US
-tags:
-  - Econometrics
-  - Labor economics
-  - Stata
 ---
 
 This one of those things everybody seems to know but you. For those who are senior statisticians, this would be so trivial they wouldn't even care to mention it, so its unlikely you'll see this in a class. For the rest of us, there's a good chance we'll commit this mistake at some point. Long story short: if you have estimated a model where the independent variable is specified in log, just exponentiating the fitted values is usually not enough to recover an unbiased retransformation.
@@ -83,19 +78,12 @@ where $\sigma^2$ is the variance of $\epsilon_i$ and, as such, can be estimated 
 
 ###### (b) The smearing estima
 
-
-
-A little note of caution, before we conclude: the discussion presented above assumes away the issue of selection that is usually present at this type of question. Wages are not something observed for a random sample of individuals, but only for those individuals who have decided to look for a job, who have indeed found a job and who are currently employed -- which is quite a particular group of people. If their earnings are correlated with the likelihood of them being employees, the coefficients would confound those things. This is a classic example of selection bias, but that is a topic for another post.
+...
 
 ##### Further readings
+
+A little note of caution, before we conclude: the discussion presented above assumes away the issue of selection that is usually present at this type of question. Wages are not something observed for a random sample of individuals, but only for those individuals who have decided to look for a job, who have indeed found a job and who are currently employed -- which is quite a particular group of people. If their earnings are correlated with the likelihood of them being employees, the coefficients would confound those things. This is a classic example of selection bias, but that is a topic for another post.
 
 Additional aspects of estimations with transformed independent variables are discussed at [David Gile's blog](https://davegiles.blogspot.com/2014/12/s.html) and at [Stata's blog](https://blog.stata.com/2011/08/22/use-poisson-rather-than-regress-tell-a-friend/).
 
  and [Stata's levpredict help](https://fmwww.bc.edu/repec/bocode/l/levpredict.html).
-
-<br>
-<hr>
-
-Is it helpful? Is there a mistake somewhere? Did I miss something important? Let me know :)
-
-*Updated on 16-08-2020*
