@@ -9,7 +9,7 @@
 # Site
 title: Thiago Scarelli
 author: Thiago Scarelli
-description: Thiago Scarelli is a Ph.D. candidate at PSE. My research studies labor markets in low and middle-income countries, with a particular interest in the relationship between financial stress and own-account work.
+description: Thiago Scarelli is a Ph.D. candidate at the Paris School of Economics (PSE). His research focuses on the different forms of labor market participation in low- and middle-income countries, with a particular interest in the self-employed and the platform workers.
 domain: thiagoscarelli.github.io
 url: https://thiagoscarelli.github.io
 lang: en_US
@@ -24,10 +24,6 @@ orcid_user: '0000-0003-2014-2084'
 stackoverflow_user: 9734152/thiago
 linkedin_user: 'thiago-scarelli'
 
-# Verification
-webmaster_verifications:
-  google: UK5Z3DkjNFOe8U_y4pFUaSc0cqYigDf3_JDHUIljLhM
-
 # Jekyll
 permalink: /:year/:month/:title/
 markdown: kramdown
@@ -38,23 +34,3 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
