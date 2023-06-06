@@ -19,6 +19,6 @@ In my recent papers, I use structural econometrics and experimental field survey
 
 I am currently a Ph.D. candidate at the Paris School of Economics (PSE), under the supervision of David N. Margolis, and I teach quantitative research methods at Université Paris 1 Panthéon-Sorbonne. During the Spring of 2023, I was a visiting researcher at the Economics Department of the University of Chicago, hosted by John List.
 
-I have a master's degree in Economics (2017) from PSE, and two bachelor's degrees, in Economics (2014) and Journalism (2007), from the University of São Paulo. During my undergraduate studies, I worked in the finance sector and covered international politics as a journalist.
+I have a master's degree in Economics (2017) from PSE, and two bachelor's degrees, in Economics (2014) and Journalism (2007), from the University of São Paulo. Before my graduate studies, I worked in the finance sector and covered international politics as a journalist.
 
 [View CV](https://thiagoscarelli.github.io/assets/pdfs/thiago_scarelli_cv.pdf){:target="_blank" rel="noopener"}
