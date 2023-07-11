@@ -1,7 +1,4 @@
 
-# Variables for the whole site
-# They can be accessed via {{ site.title }}, {{ site.email }}, and so on.
-
 # References for the YAML syntax:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
