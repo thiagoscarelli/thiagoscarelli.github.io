@@ -9,6 +9,8 @@ title: Research
 
 This paper investigates how much workers value a short delay-to-pay and how their financial conditions affect this preference. Leveraging a nationwide experimental survey of ridesharing drivers in Brazil, I document three key findings. First, this population strongly prefers a work arrangement that pays shortly after a task, compared with the alternative of earning a larger amount with a month's delay. Second, individuals from the poorest households are more likely to prioritize quick payment schemes. Finally, the workers' choices when facing this trade-off are affected by how they frame their household liquidity.
 
+[VoxTalks Podcast](https://cepr.org/multimedia/next-generation-research){:target="_blank" rel="noopener"}
+
 ---
 
 ## Publications
