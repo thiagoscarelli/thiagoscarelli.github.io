@@ -31,3 +31,9 @@ gem "jekyll-sitemap", "~> 1.4"
 gem "jekyll-seo-tag", "~> 2.8"
 
 gem "jekyll-redirect-from", "~> 0.16.0"
+
+gem "faraday", "~> 2.7"
+
+gem "racc", "~> 1.6"
+
+gem "nokogiri", "~> 1.14"

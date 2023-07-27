@@ -34,6 +34,13 @@ bundle exec jekyll serve
 
 
 # missing gems
-# faraday (2.7.4)
-# racc (1.6.2)
-# nokogiri (1.14.3)
+gem install faraday
+bundle add faraday
+
+gem install racc
+bundle add racc
+
+gem install nokogiri
+bundle add nokogiri
+
+
