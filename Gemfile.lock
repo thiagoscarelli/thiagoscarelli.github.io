@@ -258,14 +258,18 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  activesupport (~> 7.0)
+  addressable (~> 2.8)
   faraday (~> 2.7)
   github-pages (~> 228)
   http_parser.rb (~> 0.6.0)
+  i18n (~> 1.12)
   jekyll-feed (~> 0.12)
   jekyll-redirect-from (~> 0.16.0)
   jekyll-seo-tag (~> 2.8)
   jekyll-sitemap (~> 1.4)
   minima (~> 2.5)
+  minitest (~> 5.18)
   nokogiri (~> 1.14)
   racc (~> 1.6)
   tzinfo (>= 1, < 3)

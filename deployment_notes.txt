@@ -34,13 +34,6 @@ bundle exec jekyll serve
 
 
 # missing gems
-gem install faraday
-bundle add faraday
-
-gem install racc
-bundle add racc
-
-gem install nokogiri
-bundle add nokogiri
-
+gem installi 18n minitest activesupport addressable dnsruby faraday racc nokogiri 
+bundle add i18n minitest activesupport addressable dnsruby faraday racc nokogiri 
 
