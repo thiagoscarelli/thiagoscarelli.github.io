@@ -4,7 +4,7 @@ source "https://rubygems.org"
 # gem "jekyll", "~> 4.3.2"
 
 # To use github pages (upgrade with run `bundle update github-pages`)
-gem "github-pages", ">= 228", group: :jekyll_plugins
+gem "github-pages", "~> 228", group: :jekyll_plugins
 
 # Default theme
 gem "minima", "~> 2.5"
