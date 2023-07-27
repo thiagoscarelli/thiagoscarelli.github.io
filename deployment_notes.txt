@@ -1,13 +1,20 @@
 #### Preliminaty steps for site deployment
 
-Install [ruby](https://www.ruby-lang.org/en/documentation/installation/)
+Install [ruby](https://www.ruby-lang.org/en/documentation/installation/);
 
 Then, in the command prompt from ruby:
 
 `$ gem install bundle`
+
 `$ gem install jekyll`
 
 Then rest of of the steps from [here](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll).
+
+#### Markdown documentation
+
+https://daringfireball.net/projects/markdown/syntax
+
+https://kramdown.gettalong.org/documentation.html
 
 #### Local deployment
 
@@ -15,15 +22,18 @@ command prompt>
 
 cd C:\Users\t.scarelli\github\thiagoscarelli.github.io
 
-# Required for local deployment, should be removed in remote deployment
+bundle install
+
+# remove those in remote deployment
 gem install webrick
 bundle add webrick
 
 bundle exec jekyll serve
 
-# Available at http://localhost:4000/index.html
+# local version available at http://localhost:4000/index.html
 
-#### Markdown documentation
 
-https://daringfireball.net/projects/markdown/syntax
-https://kramdown.gettalong.org/documentation.html
+# missing gems
+# faraday (2.7.4)
+# racc (1.6.2)
+# nokogiri (1.14.3)
