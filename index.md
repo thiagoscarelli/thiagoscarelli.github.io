@@ -21,4 +21,4 @@ I am currently a Ph.D. candidate at the [Paris School of Economics (PSE)](https:
 
 I have a master's degree in Economics (2017) from PSE, and two bachelor's degrees, in Economics (2014) and Journalism (2007), from the University of São Paulo. Before my graduate studies, I worked in the finance sector and covered international politics as a journalist.
 
-[View CV](https://thiagoscarelli.github.io/assets/pdfs/thiago_scarelli_cv.pdf){:target="_blank" rel="noopener"}
+[Open CV](https://thiagoscarelli.github.io/assets/pdfs/thiago_scarelli_cv.pdf){:target="_blank" rel="noopener"}
