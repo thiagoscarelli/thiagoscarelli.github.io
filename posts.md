@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Posts
+title: Blog
 ---
 
-## Posts
+## Posts and Media
 
 {% for post in site.posts %}
   <ul><li>{{ post.date | date:"%b. %Y" }}: <a href="{{ post.url }}">{{ post.title }}</a></li></ul>
