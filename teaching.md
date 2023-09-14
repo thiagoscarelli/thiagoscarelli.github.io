@@ -3,22 +3,22 @@ layout: page
 title: Teaching
 ---
 
-## As Teaching Assitant at Université Paris 1 Panthéon-Sorbonne
+## Université Paris 1 Panthéon-Sorbonne
 
-**Statistics.** <br> 
+**Statistics (Teaching Assistant)** <br> 
 Undergraduate level, in French (Fall 2019, 22, 23).
 
-**Applied Econometrics.** <br> 
+**Applied Econometrics (Teaching Assistant)** <br> 
 Master level, in French (Fall 2020, 21).
 
-**Introduction to Econometrics.** <br> 
+**Introduction to Econometrics (Teaching Assistant)** <br> 
 Undergraduate level, in English (Spring 2020, 21).
 
-**Descriptive Statistics.** <br> 
+**Descriptive Statistics (Teaching Assistant)** <br> 
 Undergraduate level, in French (Fall 2020, 21).<br>
 
-## As Adjunct Professor at Sciences Po
+## Sciences Po
 
-**Statistics Applied to Social Sciences.** <br> 
+**Statistics Applied to Social Sciences (Adjunct Professor)** <br> 
 Undergraduate level, in English (Spring 2020, 21). <br> 
 [Course syllabus.](https://thiagoscarelli.github.io/assets/pdfs/scarelli_stats_intro_syllabus_scp.pdf){:target="_blank" rel="noopener"}
