@@ -1,12 +1,14 @@
 ---
 layout: post
-title: "Summary statistics and the Datasaurus Dozen"
+title: "Summary statistics and the Datasaurus Dozen (OpenIntro blog)"
 date: 2021-10-01
 mathjax: true
 tags:
   - statistics
   - R code
 ---
+
+*This post was originally published at the [OpenIntro blog](https://www.openintro.org/blog/article/summary-statistics-and-the-datasaurus-dozen/){:target="_blank" rel="noopener"}.*
 
 Summary statistics are great tools: they reduce a potentially large number of observations down to a single number that is easy to interpret and communicate. This feature justifies the widespread popularity of averages and correlations, from introductory statistics courses and newspaper articles to scientific papers. The caveat is that they are usually insufficient to tell the whole history, as it is nicely illustrated by a group of datasets known as the "datasaurus dozen".
 
@@ -289,5 +291,3 @@ The experienced reader will notice that these sets are similar in spirit to the 
 While it is unknown how Anscombe came up with his sets, the authors' of the datasaurus dozen explain that their strategy was based on bounded randomization combined with simulated annealing optimization (see [details here](https://damassets.autodesk.net/content/dam/autodesk/research/publications-assets/pdf/same-stats-different-graphs.pdf){:target="_blank" rel="noopener"}). In a nutshell: start from a given dataset (i.e., the dino), subject it to some random variation, and then check that (1) the statistical properties of interest remain sufficiently similar, and (2) the set of new points are closer to a prespecified target pattern (e.g., a circle or a star). If both criteria are satisfied, the new set is accepted, and the process is repeated (for these datasets, the authors report some 200,000 iterations).
 
 The "simulated annealing" part means that the process is calibrated in a way that the early interactions have some chance of being accepted even if the criterion (2) is not satisfied, and the protocol becomes gradually more stringent as it converges to a minimization result. The analogy with the annealing process in metallurgy comes from this controlled "cooling" embedded in the optimization rule, which helps the iteration process avoid being stuck in a local minimum early on (see [here](https://en.wikipedia.org/wiki/Simulated_annealing){:target="_blank" rel="noopener"}).
-
-*This post was originally published at the [OpenIntro blog](https://www.openintro.org/blog/article/summary-statistics-and-the-datasaurus-dozen/){:target="_blank" rel="noopener"}.*
