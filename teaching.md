@@ -3,10 +3,10 @@ layout: page
 title: Teaching
 ---
 
-## Université Paris 1 Panthéon-Sorbonne
+## As Teaching Assitant at Université Paris 1 Panthéon-Sorbonne
 
 **Statistics.** <br> 
-Undergraduate level, in French (Fall 2019, 22).
+Undergraduate level, in French (Fall 2019, 22, 23).
 
 **Applied Econometrics.** <br> 
 Master level, in French (Fall 2020, 21).
@@ -17,7 +17,7 @@ Undergraduate level, in English (Spring 2020, 21).
 **Descriptive Statistics.** <br> 
 Undergraduate level, in French (Fall 2020, 21).<br>
 
-## Sciences Po
+## As Adjunct Professor at Sciences Po
 
 **Statistics Applied to Social Sciences.** <br> 
 Undergraduate level, in English (Spring 2020, 21). <br> 
