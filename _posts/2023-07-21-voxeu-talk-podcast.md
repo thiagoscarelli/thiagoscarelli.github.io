@@ -7,6 +7,6 @@ mathjax: true
 
 *From the PSE-CEPR Policy Forum at the Paris School of Economics, Tim Phillips meets three of the young researchers who were chosen to present to the conference. Duncan Webb and Thiago Scarelli of PSE, and Carmen Villa-Llera of the University of Warwick talk about their research – and what their hopes are for the future of economics.*
 
-The podcast is available here: https://lnkd.in/eV4eeKzp
+This podcast episode is available on the CEPR webpage: https://lnkd.in/eV4eeKzp
 
 And on Spotify: https://lnkd.in/eF7_VfXb
