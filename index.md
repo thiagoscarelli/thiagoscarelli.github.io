@@ -11,9 +11,7 @@ style="float: left;
     padding-bottom: 16px;
     width: 130px;">
 
-I am an applied microeconomist working at the intersection of labor and development economics. 
-
-My research focuses on the different forms of labor market participation in low- and middle-income countries, with a particular interest in the self-employed and platform workers.
+I am an applied economist working at the intersection of labor and development economics, with focus on the factors that shape people’s occupational choices in low- and middle-income countries.
 
 In my recent papers, I use microeconometrics and field experiments to study how financial stress can push workers to prioritize labor market choices that pay fast over options that pay more. In my future projects, I will look at the long-term consequences of occupational decisions and evaluate policies to improve labor allocation.
 
