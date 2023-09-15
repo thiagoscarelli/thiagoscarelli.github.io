@@ -11,7 +11,7 @@ style="float: left;
     padding-bottom: 16px;
     width: 130px;">
 
-I am an applied microeconomist working on the intersection of labor and development economics. 
+I am an applied microeconomist working at the intersection of labor and development economics. 
 
 My research focuses on the different forms of labor market participation in low- and middle-income countries, with a particular interest in the self-employed and platform workers.
 
