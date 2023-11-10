@@ -17,4 +17,4 @@ In my recent papers, I use microeconometrics and field experiments to study how 
 
 I am currently a Ph.D. candidate at the [Paris School of Economics (PSE)](https://www.parisschoolofeconomics.eu/en/scarelli-thiago/){:target="_blank" rel="noopener"}, under the supervision of David N. Margolis, and I teach quantitative research methods at Université Paris 1 Panthéon-Sorbonne. During the Spring of 2023, I was a visiting researcher at the Economics Department of the University of Chicago, hosted by John List.
 
-[View CV](https://thiagoscarelli.github.io/assets/pdfs/thiago_scarelli_cv.pdf){:target="_blank" rel="noopener"}
+[View CV](https://thiagoscarelli.github.io/assets/pdfs/Thiago_Scarelli_CV.pdf){:target="_blank" rel="noopener"}
