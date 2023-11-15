@@ -11,7 +11,7 @@ style="float: left;
     padding-bottom: 16px;
     width: 130px;">
 
-**I am an applied economist, and my primary research areas are labor, development, and experimental economics.** My research focuses on understanding the factors that shape people's occupational choices and the impact of new technologies in the labor market.
+I am an applied economist, and my primary research areas are labor, development, and experimental economics. My research focuses on understanding the factors that shape people's occupational choices and the impact of new technologies in the labor market.
 
 In my recent papers, I use microeconometrics and field experiments to study how financial stress can push workers to prioritize labor market choices that pay fast over options that pay more. Looking ahead, my research projects will focus on the welfare effects of regulating the platform economy and the long-term consequences of gig work for vulnerable groups such as young and migrant workers.
 
