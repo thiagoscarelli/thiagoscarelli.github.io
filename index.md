@@ -19,6 +19,6 @@ In my recent papers, I use microeconometrics and field experiments to study how 
 
 Looking ahead, my research projects will focus on the welfare effects of regulating the platform economy and the long-term consequences of gig work for vulnerable groups such as young and migrant workers.
 
-I am currently a Ph.D. candidate at the [Paris School of Economics (PSE)](https://www.parisschoolofeconomics.eu/en/scarelli-thiago/){:target="_blank" rel="noopener"} under the supervision of Professor David Margolis. During the Spring of 2023, I was a visiting researcher at the Economics Department of the University of Chicago, hosted by Professor John List.
+I am currently a Ph.D. candidate at the [Paris School of Economics (PSE)](https://www.parisschoolofeconomics.eu/en/scarelli-thiago/){:target="_blank" rel="noopener"} under the supervision of Professor David N. Margolis. During the Spring of 2023, I was a visiting researcher at the Economics Department of the University of Chicago, hosted by Professor John A. List.
 
 [View CV](https://thiagoscarelli.github.io/assets/pdfs/Thiago_Scarelli_CV.pdf){:target="_blank" rel="noopener"}
