@@ -21,4 +21,4 @@ Undergraduate level, in French (Fall 2020, 21).<br>
 
 **Statistics Applied to Social Sciences (Adjunct Professor)** <br> 
 Undergraduate level, in English (Spring 2020, 21). <br> 
-[Course syllabus.](https://thiagoscarelli.github.io/assets/pdfs/scarelli_stats_intro_syllabus_scp.pdf){:target="_blank" rel="noopener"}
+[Syllabus.](https://thiagoscarelli.github.io/assets/pdfs/scarelli_stats_intro_syllabus_scp.pdf){:target="_blank" rel="noopener"}
