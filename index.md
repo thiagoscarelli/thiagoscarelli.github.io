@@ -15,7 +15,7 @@ style="float: left;
 
 My research focuses on understanding the factors that shape people's occupational choices and the impact of new technologies in the labor market.
 
-In my recent papers, I use microeconometrics and field experiments to study how financial stress can push workers to prioritize labor market choices that pay fast over options that pay more. 
+In my recent papers, I use microeconometrics and field experiments to study how financial stress can push workers to prioritize labor market choices that pay fast over options that pay more. My results were featured in the VoxTalks Economics podcast, episode ["The next generation of research"](https://cepr.org/multimedia/next-generation-research){:target="_blank" rel="noopener"}. 
 
 Looking ahead, my research projects will focus on the welfare effects of regulating the platform economy and the long-term consequences of gig work for vulnerable groups such as young and migrant workers.
 
