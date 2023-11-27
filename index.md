@@ -15,7 +15,7 @@ style="float: left;
 
 My research focuses on understanding the factors that shape people's occupational choices and the impact of new technologies in the labor market.
 
-My recent papers use microeconometrics and field experiments to study how financial stress can push workers to prioritize labor market choices that pay fast over options that pay more. My results were featured in the VoxTalks Economics podcast, episode ["The next generation of research"](https://cepr.org/multimedia/next-generation-research){:target="_blank" rel="noopener"}. 
+My recent papers use microeconometrics and field experiments to study how financial stress can push workers to prioritize labor market choices that pay fast over options that pay more. Some of my findings were featured in the VoxTalks Economics podcast, episode ["The next generation of research"](https://cepr.org/multimedia/next-generation-research){:target="_blank" rel="noopener"}. 
 
 I am currently a Ph.D. candidate at the [Paris School of Economics (PSE)](https://www.parisschoolofeconomics.eu/en/scarelli-thiago/){:target="_blank" rel="noopener"} under the supervision of Professor David N. Margolis. During the Spring of 2023, I was a visiting researcher at the Economics Department of the University of Chicago, hosted by Professor John A. List.
 
