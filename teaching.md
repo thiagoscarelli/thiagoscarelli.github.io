@@ -5,14 +5,14 @@ title: Teaching
 
 ## Université Paris 1 Panthéon-Sorbonne
 
+**Introduction to Econometrics (Teaching Assistant)** <br> 
+Undergraduate level, in English (Spring 2020, 21, 24).
+
 **Statistics (Teaching Assistant)** <br> 
 Undergraduate level, in French (Fall 2019, 22, 23).
 
 **Applied Econometrics (Teaching Assistant)** <br> 
 Master level, in French (Fall 2020, 21).
-
-**Introduction to Econometrics (Teaching Assistant)** <br> 
-Undergraduate level, in English (Spring 2020, 21).
 
 **Descriptive Statistics (Teaching Assistant)** <br> 
 Undergraduate level, in French (Fall 2020, 21).<br>
