@@ -13,7 +13,7 @@ style="float: left;
 
 **I am an applied economist, and my primary research areas are labor, digital, and experimental economics.** 
 
-My research focuses on understanding the factors that shape people's occupational choices and the impact of new technologies in the labor market.
+My research focuses on understanding the factors that shape people's careers and the impact of new technologies in the labor market.
 
 My recent papers use microeconometrics and field experiments to study how financial stress can push workers to prioritize labor market choices that pay fast over options that pay more. My findings were featured in the VoxTalks Economics podcast, episode ["The next generation of research"](https://cepr.org/multimedia/next-generation-research){:target="_blank" rel="noopener"}. 
 
