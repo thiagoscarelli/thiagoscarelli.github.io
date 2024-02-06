@@ -36,7 +36,7 @@ gem "faraday", "~> 2.7"
 
 gem "racc", "~> 1.6"
 
-gem "nokogiri", "~> 1.14"
+gem "nokogiri", "~> 1.16"
 
 gem "i18n", "~> 1.12"
 gem "minitest", "~> 5.18"
