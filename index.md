@@ -19,7 +19,7 @@ I am currently a Ph.D. candidate at the [Paris School of Economics (PSE)](https:
 
 During the Spring of 2023, I was a visiting researcher at the Economics Department of the [University of Chicago](https://economics.uchicago.edu/){:target="_blank" rel="noopener"}, hosted by Professor John A. List.
 
-Later this year, I will join [Oxford University](https://www.ox.ac.uk/admissions/graduate/courses/msc-economics-development){:target="_blank" rel="noopener"} as a Departmental Lecturer in Development Economics.
+Later this year, I will join the [University of Oxford](https://www.ox.ac.uk/admissions/graduate/courses/msc-economics-development){:target="_blank" rel="noopener"} as a Departmental Lecturer in Development Economics.
 
 [View CV](https://thiagoscarelli.github.io/assets/pdfs/Thiago_Scarelli_CV.pdf){:target="_blank" rel="noopener"}
 
