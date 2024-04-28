@@ -23,12 +23,12 @@ Later this year, I will join the [University of Oxford](https://www.ox.ac.uk/adm
 
 [View CV](https://thiagoscarelli.github.io/assets/pdfs/Thiago_Scarelli_CV.pdf){:target="_blank" rel="noopener"}
 
-
+<br><br>
 **Media**
 
 - VoxTalks Economics podcast, ["The next generation of research"](https://cepr.org/multimedia/next-generation-research){:target="_blank" rel="noopener"}. 
 
-
+<br><br>
 **Upcoming seminars and conferences**
 
 - [Society of Labor Economists Annual Conference](https://www.sole-jole.org/upcoming-meeting){:target="_blank" rel="noopener"}, Portland, May 2024
