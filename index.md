@@ -19,16 +19,11 @@ I am currently a Ph.D. candidate at the [Paris School of Economics (PSE)](https:
 
 Later this year, I will join Oxford University as a Departmental Lecturer in Development Economics.
 
-**Upcoming seminars and conferences** 
-
-- Society of Labor Economists (SOLE) Annual Conference, Portland, May 2024
-
-- Applied Economics Seminar, University of Valencia, May 2024
-
-- International Conference on Development Economics (ICDE), Aix-en-Provence, July 2024
-
-- Labour Economics Meeting, Barcelona, July 2024
-
-- European Association of Labour Economists (EALE) Annual Conference, Bergen, September 2024
-
 [View CV](https://thiagoscarelli.github.io/assets/pdfs/Thiago_Scarelli_CV.pdf){:target="_blank" rel="noopener"}
+
+**Upcoming seminars and conferences** 
+- Society of Labor Economists (SOLE) Annual Conference, Portland, May 2024
+- Applied Economics Seminar, University of Valencia, May 2024
+- International Conference on Development Economics (ICDE), Aix-en-Provence, July 2024
+- Labour Economics Meeting, Barcelona, July 2024
+- European Association of Labour Economists (EALE) Annual Conference, Bergen, September 2024
