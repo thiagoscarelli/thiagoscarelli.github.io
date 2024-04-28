@@ -25,12 +25,12 @@ Later this year, I will join the [University of Oxford](https://www.ox.ac.uk/adm
 
 <br>**Media**
 
-- VoxTalks Economics podcast, ["The next generation of research"](https://cepr.org/multimedia/next-generation-research){:target="_blank" rel="noopener"}. 
+- VoxTalks Economics podcast: ["The next generation of research"](https://cepr.org/multimedia/next-generation-research){:target="_blank" rel="noopener"}
 
 <br>**Upcoming seminars and conferences**
 
-- [Society of Labor Economists Annual Conference](https://www.sole-jole.org/upcoming-meeting){:target="_blank" rel="noopener"}, Portland, May 2024
+- [Society of Labor Economists (SOLE) Annual Conference](https://www.sole-jole.org/upcoming-meeting){:target="_blank" rel="noopener"}, Portland, May 2024
 - Applied Economics Seminar, [University of Valencia](https://www.uv.es/uvweb/college/en/university-valencia-1285845048380.html){:target="_blank" rel="noopener"}, May 2024
-- [International Conference on Development Economics](https://icde2024.sciencesconf.org/?lang=en){:target="_blank" rel="noopener"}, Aix-en-Provence, Jul.24
+- [International Conference on Development Economics (ICDE)](https://icde2024.sciencesconf.org/?lang=en){:target="_blank" rel="noopener"}, Aix-en-Provence, Jul.24
 - [Labour Economics Meeting](https://www.aeet.eu/en/jornadas-de-economia-laboral/){:target="_blank" rel="noopener"}, Barcelona, Jul. 2024
-- [European Association of Labour Economists Annual Conference](https://www.nhh.no/en/calendar/fair/2024/conferences/eale-conference-2024/){:target="_blank" rel="noopener"}, Bergen, Sep. 2024
+- [European Association of Labour Economists (EALE) Annual Conference](https://www.nhh.no/en/calendar/fair/2024/conferences/eale-conference-2024/){:target="_blank" rel="noopener"}, Bergen, Sep. 2024
