@@ -23,9 +23,11 @@ Later this year, I will join [Oxford University](https://www.ox.ac.uk/admissions
 
 [View CV](https://thiagoscarelli.github.io/assets/pdfs/Thiago_Scarelli_CV.pdf){:target="_blank" rel="noopener"}
 
+
 **Media**
 
 - VoxTalks Economics podcast, ["The next generation of research"](https://cepr.org/multimedia/next-generation-research){:target="_blank" rel="noopener"}. 
+
 
 **Upcoming seminars and conferences**
 
