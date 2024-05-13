@@ -13,8 +13,6 @@ style="float: left;
 
 **I am an applied economist, and my primary research areas are labor and development economics.**
 
-My research focuses on understanding the factors that shape people's careers and the impact of new technologies in the labor market. 
-
 My recent papers use microeconometrics and field experiments to study how financial stress can push workers to prioritize labor market choices that pay fast over options that pay more. 
 
 I am currently a Ph.D. candidate at the [Paris School of Economics (PSE)](https://www.parisschoolofeconomics.eu/en/scarelli-thiago/){:target="_blank" rel="noopener"} under the supervision of Professor David N. Margolis. 
