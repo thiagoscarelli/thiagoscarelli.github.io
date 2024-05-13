@@ -11,7 +11,7 @@ style="float: left;
     padding-bottom: 16px;
     width: 130px;">
 
-**I am an applied economist, and my primary research areas are labor, development, and experimental economics.**
+**I am an applied economist, and my primary research areas are labor and development economics.**
 
 My research focuses on understanding the factors that shape people's careers and the impact of new technologies in the labor market. 
 
