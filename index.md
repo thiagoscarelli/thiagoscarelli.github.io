@@ -5,7 +5,7 @@ title: "About"
 
 <img
 src="/assets/images/thiago_scarelli_by_mr_300x400.jpg"
-alt="Thiago Scarelli"
+alt="Thiago Scarelli. Photo by Margaux Rodrigues."
 style="float: left;
 	padding-right: 16px;
     padding-bottom: 16px;
