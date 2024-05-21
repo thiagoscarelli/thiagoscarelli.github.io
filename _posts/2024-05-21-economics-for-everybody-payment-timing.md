@@ -6,6 +6,6 @@ date: 2024-05-21
 
 *In a context where payment timing dictates the pace and choices of life, an issue arises: would you consider giving up part of your salary for immediate remuneration rather than receiving it in full later? Thiago Scarelli highlights the dilemmas between long-term financial security and immediate needs.*
 
-<a href="https://www.parisschoolofeconomics.eu/en/news/the-issue-of-payment-timing-by-thiago-scarelli/"><img src = "https://thiagoscarelli.github.io/assets/images/ecopourtous_thiago.jpg" class = "default"></a>
+<a href="https://www.parisschoolofeconomics.eu/en/news/the-issue-of-payment-timing-by-thiago-scarelli/"><img src = "https://thiagoscarelli.github.io/assets/images/ecopourtous_thiago.PNG" class = "default"></a>
 
-A summary of my research on a 3-minute video, as part of a dossier on labor economics for a general audience. It also includes a comic strip with drawings from [Samuel Chich](https://www.parisschoolofeconomics.eu/en/chich-samuel/).
+A 3-minute video summarizing my research is featured in a dossier on labor economics for a general audience. The dossier also includes a comic strip with drawings from [Samuel Chich](https://www.parisschoolofeconomics.eu/en/chich-samuel/).
