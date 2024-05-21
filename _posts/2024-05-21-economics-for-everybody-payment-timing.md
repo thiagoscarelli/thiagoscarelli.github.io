@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The issue of payment timing (PSE's Economics for Everybody)"
-date: 2024-05-20
+date: 2024-05-21
 ---
 
 *In a context where payment timing dictates the pace and choices of life, an issue arises: would you consider giving up part of your salary for immediate remuneration rather than receiving it in full later? Thiago Scarelli highlights the dilemmas between long-term financial security and immediate needs.*
