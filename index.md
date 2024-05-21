@@ -34,5 +34,5 @@ In September 2024, I will join the [University of Oxford](https://www.ox.ac.uk/a
 
 <br>**Media**
 
-- PSE's Economics for Everybody: ["The issue of payment timing"](https://www.parisschoolofeconomics.eu/en/news/the-issue-of-payment-timing-by-thiago-scarelli/){:target="_blank" rel="noopener"}
-- VoxTalks podcast: ["The next generation of research"](https://cepr.org/multimedia/next-generation-research){:target="_blank" rel="noopener"}
+- Economics for Everybody: ["The issue of payment timing"](https://www.parisschoolofeconomics.eu/en/news/the-issue-of-payment-timing-by-thiago-scarelli/){:target="_blank" rel="noopener"}
+- VoxTalks Podcast: ["The next generation of research"](https://cepr.org/multimedia/next-generation-research){:target="_blank" rel="noopener"}
