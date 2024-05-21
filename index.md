@@ -11,7 +11,7 @@ style="float: left;
     padding-bottom: 16px;
     width: 130px;">
 
-**I am an applied economist, and my primary research areas are labor and development economics.**
+I am an applied economist, and my primary research areas are labor and development economics.
 
 My recent papers use microeconometrics and field experiments to study how financial stress can push workers to prioritize labor market choices that pay fast over options that pay more. 
 
