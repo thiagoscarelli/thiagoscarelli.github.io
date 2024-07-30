@@ -30,6 +30,7 @@ In September 2024, I will join the [University of Oxford](https://www.ox.ac.uk/a
 - [International Conference on Development Economics (ICDE)](https://icde2024.sciencesconf.org/?lang=en){:target="_blank" rel="noopener"}, Aix-en-Provence, July.
 - [European Economic Association (EEA) Meeting](https://www.eea-esem-congresses.org/){:target="_blank" rel="noopener"}, Rotterdam, August.
 - [European Association of Labour Economists (EALE) Annual Conference](https://www.nhh.no/en/calendar/fair/2024/conferences/eale-conference-2024/){:target="_blank" rel="noopener"}, Bergen, September.
+- 30th Anniversary Conference of the Research Department of the Inter-American Development Bank (IDB), Washington D.C., September.
 
 <br>**Media**
 
