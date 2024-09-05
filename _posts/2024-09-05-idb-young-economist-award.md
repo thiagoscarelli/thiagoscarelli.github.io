@@ -12,4 +12,4 @@ From the IDB:
 
 *Thiago Scarelli, of Paris School of Economics, won second prize for his innovative analysis of the timing of payments for ridesharing drivers in Brazil, while third prize went to Paula Spinola, of the University College London, for her insightful study on the effectiveness and health impacts from limiting the use of C-sections in Brazil. Santiago Hermo, of Brown University, and Carolina Tojal dos Santos, of the University of Michigan received honorary mentions for their exceptional contributions.*
 
-[Read more](https://www.iadb.org/en/news/idb-young-economist-award-celebrates-excellence-development-economics-research)
+[Read more](https://www.iadb.org/en/news/idb-young-economist-award-celebrates-excellence-development-economics-research){:target="_blank" rel="noopener"}
