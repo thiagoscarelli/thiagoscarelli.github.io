@@ -12,8 +12,8 @@ This paper investigates the importance of quick remuneration for gig workers. To
 [Paper](https://thiagoscarelli.github.io/assets/pdfs/scarelli_brazil_drivers_paper.pdf){:target="_blank" rel="noopener"} &nbsp;\|&nbsp; 
 [Slides](https://thiagoscarelli.github.io/assets/pdfs/scarelli_brazil_drivers_slides.pdf){:target="_blank" rel="noopener"} &nbsp;\|&nbsp; 
 [Podcast](https://cepr.org/multimedia/next-generation-research){:target="_blank" rel="noopener"} &nbsp;\|&nbsp; 
-[Video](https://www.parisschoolofeconomics.eu/en/news/the-issue-of-payment-timing-by-thiago-scarelli/){:target="_blank" rel="noopener"} &nbsp;\|&nbsp; 
-[Award]([https://www.parisschoolofeconomics.eu/en/news/the-issue-of-payment-timing-by-thiago-scarelli/](https://www.iadb.org/en/news/idb-young-economist-award-celebrates-excellence-development-economics-research)){:target="_blank" rel="noopener"}
+[Video](https://www.parisschoolofeconomics.eu/en/news/the-issue-of-payment-timing-by-thiago-scarelli){:target="_blank" rel="noopener"} &nbsp;\|&nbsp; 
+[Award](https://www.iadb.org/en/news/idb-young-economist-award-celebrates-excellence-development-economics-research){:target="_blank" rel="noopener"}
 
 ---
 
@@ -29,6 +29,8 @@ Frictional labor markets impose a fundamental trade-off: individuals may work on
 [Poster](https://thiagoscarelli.github.io/assets/pdfs/scarelli_margolis_oaw_poster_eale_2022.pdf){:target="_blank" rel="noopener"} &nbsp;\|&nbsp; 
 [Slides](https://thiagoscarelli.github.io/assets/pdfs/scarelli_margolis_oaw_slides_sole_2022.pdf){:target="_blank" rel="noopener"} 
 
+<br>
+
 **Occupations and Wealth in Developing Countries** 
 
 *Revue d'économie du développement*, 2022
@@ -36,4 +38,4 @@ Frictional labor markets impose a fundamental trade-off: individuals may work on
 To what extent is the workers' occupational category (whether someone is an employer, an employee, an own-account worker, or an unpaid family worker) associated with their material living conditions? This short paper looks at the distribution of employment categories over different wealth levels in 1,313 regions from 46 low- and middle-income countries. We find that, despite a wide diversity in the composition of those markets, own-account and family workers are consistently overrepresented among the poorest members of the employed population, as measured by household assets.
 
 [Paper](https://doi.org/10.3917/edd.362.0127){:target="_blank" rel="noopener"} &nbsp;\|&nbsp; 
-[Plot with main results](https://thiagoscarelli.github.io/assets/images/oaw_poverty_plot.png){:target="_blank" rel="noopener"}
+[Plot with main results](https://thiagoscarelli.github.io/assets/images/scarelli_oaw_poverty_plot.png){:target="_blank" rel="noopener"}
