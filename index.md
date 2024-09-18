@@ -13,11 +13,11 @@ style="float: left;
 
 I am a Lecturer in Development Economics at the [University of Oxford](https://www.ox.ac.uk/admissions/graduate/courses/msc-economics-development){:target="_blank" rel="noopener"}.
 
-My research focuses on understanding the factors that shape people’s careers in low- and middle-income coutries.
+My research focuses on understanding the factors that shape people’s careers in low- and middle-income countries.
 
 My recent papers use microeconometrics and field experiments to study how financial stress can push workers to prioritize labor market choices that pay fast over options that pay more.
 
-[View CV](https://thiagoscarelli.github.io/assets/pdfs/Thiago_Scarelli_CV.pdf){:target="_blank" rel="noopener"}
+[View CV](https://thiagoscarelli.github.io/assets/pdfs/Thiago_Scarelli_CV.pdf){:target="_blank" rel="noopener"} &nbsp;\|&nbsp; [PhD thesis slides](https://thiagoscarelli.github.io/assets/pdfs/thesis_slides.pdf){:target="_blank" rel="noopener"}
 
 <br>**Seminars and conferences 2024**
 
@@ -26,7 +26,6 @@ My recent papers use microeconometrics and field experiments to study how financ
 - [International Conference on Development Economics (ICDE)](https://icde2024.sciencesconf.org/?lang=en){:target="_blank" rel="noopener"}, Aix-en-Provence, July.
 - [European Economic Association (EEA) Meeting](https://www.eea-esem-congresses.org/){:target="_blank" rel="noopener"}, Rotterdam, August.
 - [European Association of Labour Economists (EALE) Annual Conference](https://www.nhh.no/en/calendar/fair/2024/conferences/eale-conference-2024/){:target="_blank" rel="noopener"}, Bergen, September.
-<!-- - 30th Anniversary Conference of the Research Department of the Inter-American Development Bank (IDB), Washington D.C., September.-->
 
 <br>**Media**
 
