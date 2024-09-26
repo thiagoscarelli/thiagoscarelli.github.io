@@ -39,3 +39,16 @@ To what extent is the workers' occupational category (whether someone is an empl
 
 [Paper](https://doi.org/10.3917/edd.362.0127){:target="_blank" rel="noopener"} &nbsp;\|&nbsp; 
 [Plot with main results](https://thiagoscarelli.github.io/assets/images/scarelli_oaw_poverty_plot.png){:target="_blank" rel="noopener"}
+
+---
+
+## PhD Thesis
+
+**Occupational Choices and Liquidity Constraints in Developing Countries**
+
+*Defended at the Paris School of Economics & Université Paris 1 Panthéon-Sorbonne*
+
+This thesis studies the link between workers’ liquidity and their labor market outcomes. More precisely, we examine the hypothesis that the immediate availability of resources (or the lack thereof) may affect people’s propensity to work by themselves. Since financial constraints tend to be more widespread and more severe in poor and middle-income countries, most of our attention is dedicated to this context, with a particular focus on Brazil.
+
+[PhD thesis](https://thiagoscarelli.github.io/assets/pdfs/scarelli_phd_thesis.pdf){:target="_blank" rel="noopener"} &nbsp;\|&nbsp; 
+[Slides](https://thiagoscarelli.github.io/assets/pdfs/scarelli_thesis_slides.pdf){:target="_blank" rel="noopener"}
