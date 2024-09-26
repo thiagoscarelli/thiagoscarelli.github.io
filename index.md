@@ -11,13 +11,13 @@ style="float: left;
     padding-bottom: 16px;
     width: 130px;">
 
-I am a Lecturer in Development Economics at the [University of Oxford](https://www.ox.ac.uk/admissions/graduate/courses/msc-economics-development){:target="_blank" rel="noopener"}.
+I am a lecturer in the Department of Economics at the [University of Oxford](https://www.economics.ox.ac.uk/people/thiago-scarelli){:target="_blank" rel="noopener"}.
 
-My research focuses on understanding the factors that shape people’s careers in low- and middle-income countries.
+My research interests are in the intersection of Labor Economics and Development Economics.
 
-My recent papers use microeconometrics and field experiments to study how financial stress can push workers to prioritize labor market choices that pay fast over options that pay more.
+My recent work uses semi-structural microeconometrics and field experiments to study the factors that shape people's choices in the labor markets of low- and middle-income countries.
 
-[View CV](https://thiagoscarelli.github.io/assets/pdfs/Thiago_Scarelli_CV.pdf){:target="_blank" rel="noopener"} &nbsp;\|&nbsp; [PhD thesis slides](https://thiagoscarelli.github.io/assets/pdfs/thesis_slides.pdf){:target="_blank" rel="noopener"}
+[View CV](https://thiagoscarelli.github.io/assets/pdfs/Thiago_Scarelli_CV.pdf){:target="_blank" rel="noopener"}
 
 <br>**Seminars and conferences 2024**
 
