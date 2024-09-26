@@ -15,7 +15,7 @@ Lecturer in the Department of Economics at the [University of Oxford](https://ww
 
 My research interests are in the intersection of Labor Economics and Development Economics.
 
-My recent work uses semi-structural microeconometrics and field experiments to study the factors that shape people's choices in the labor markets of low- and middle-income countries.
+My work uses semi-structural microeconometrics and field experiments to study the factors shaping people's choices in the labor markets of poor countries.
 
 [View CV](https://thiagoscarelli.github.io/assets/pdfs/Thiago_Scarelli_CV.pdf){:target="_blank" rel="noopener"}
 
