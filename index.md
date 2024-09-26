@@ -11,7 +11,9 @@ style="float: left;
     padding-bottom: 16px;
     width: 130px;">
 
-I am a lecturer in the Department of Economics at the [University of Oxford](https://www.economics.ox.ac.uk/people/thiago-scarelli){:target="_blank" rel="noopener"}. My research interests are in the intersection of Labor Economics and Development Economics.
+Lecturer in the Department of Economics at the [University of Oxford](https://www.economics.ox.ac.uk/people/thiago-scarelli){:target="_blank" rel="noopener"}. 
+
+My research interests are in the intersection of Labor Economics and Development Economics.
 
 My recent work uses semi-structural microeconometrics and field experiments to study the factors that shape people's choices in the labor markets of low- and middle-income countries.
 
