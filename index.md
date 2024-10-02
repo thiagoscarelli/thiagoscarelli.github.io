@@ -9,7 +9,7 @@ alt="Thiago Scarelli."
 style="float: left;
 	padding-right: 16px;
     padding-bottom: 16px;
-    width: 150px;">
+    width: 145px;">
 
 Lecturer in the Department of Economics at the [University of Oxford](https://www.economics.ox.ac.uk/people/thiago-scarelli){:target="_blank" rel="noopener"}. 
 
