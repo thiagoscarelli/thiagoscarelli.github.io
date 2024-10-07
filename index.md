@@ -11,7 +11,7 @@ style="float: left;
     padding-bottom: 16px;
     width: 145px;">
 
-Lecturer in the Department of Economics at the [University of Oxford](https://www.economics.ox.ac.uk/people/thiago-scarelli){:target="_blank" rel="noopener"}. 
+Lecturer in the Department of Economics at the [University of Oxford](https://www.csae.ox.ac.uk/people/thiago-scarelli){:target="_blank" rel="noopener"}. 
 
 My research interests are in the intersection of Labor Economics and Development Economics.
 
