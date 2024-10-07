@@ -4,7 +4,7 @@ $basepadding: 16px;
 html, body {height: 100%;}
 
 body, h1, h2, h3, h4, h5, h6, p {
-    font-family: Garamond, "EB Garamond", Georgia, serif;
+    font-family: Georgia, serif;
     color: #1c1c1c;
     line-height: 1.4;
 }
@@ -20,26 +20,26 @@ body {
 }
 
 h1 {
-    font-size: 22pt;
+    font-size: 18pt;
     color: #1c1c1c;
     padding-top: 0pt;
     padding-bottom: 0px;
 }
 
 h2 {
-    font-size: 18pt;
+    font-size: 14pt;
     padding-top: $basepadding;
     padding-bottom: 0px;
 }
 
 h3 {
-    font-size: 16pt;
+    font-size: 12pt;
     padding-top: $basepadding;
     padding-bottom: 0px;
 }
 
 p {
-    font-size: 16pt;
+    font-size: 12pt;
     padding-top: 0px;
     padding-bottom: 0px;
 }
@@ -51,7 +51,7 @@ a{
 
 ul {
     list-style-type: square;
-    padding-left: 20px;
+    padding-left: 16px;
 }
 
 li { padding: 4px 0px; }
