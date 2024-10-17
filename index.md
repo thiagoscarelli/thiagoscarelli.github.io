@@ -6,7 +6,7 @@ title: "About"
 <img
 src="/assets/images/thiago_scarelli.jpg"
 alt="Thiago Scarelli."
-style="float: left;
+style="float: right;
 	padding-right: 16px;
     padding-bottom: 16px;
     width: 145px;">
