@@ -11,7 +11,7 @@ style="float: right;
     padding-bottom: 16px;
     width: 145px;">
 
-I'm a Lecturer in the Department of Economics at the [University of Oxford](https://www.csae.ox.ac.uk/people/thiago-scarelli){:target="_blank" rel="noopener"}. I'm also affiliated with the Centre for the Study of African Economies (CSAE) and an associate member of St Antony's College.
+I'm a Lecturer at the [University of Oxford](https://www.csae.ox.ac.uk/people/thiago-scarelli){:target="_blank" rel="noopener"}. I'm also affiliated with the Centre for the Study of African Economies (CSAE) and an associate member of St Antony's College.
 
 My research interests are in the intersection of Labor Economics and Development Economics.
 
