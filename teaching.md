@@ -5,23 +5,23 @@ title: Teaching
 
 ## University of Oxford
 
-**Microeconomic Theory (Lecturer)** <br> 
+**Microeconomic Theory** <br> 
 Graduate level, in English (2024).
 
 <br>
 
 ## Université Paris 1 Panthéon-Sorbonne
 
-**Introduction to Econometrics (Teaching Assistant)** <br> 
+**Introduction to Econometrics** <br> 
 Undergraduate level, in English (2020, 21, 24).
 
-**Statistics (Teaching Assistant)** <br> 
+**Statistics** <br> 
 Undergraduate level, in French (2019, 22, 23).
 
-**Applied Econometrics (Teaching Assistant)** <br> 
+**Applied Econometrics** <br> 
 Graduate level, in French (2020, 21).
 
-**Descriptive Statistics (Teaching Assistant)** <br> 
+**Descriptive Statistics** <br> 
 Undergraduate level, in French (2020, 21).
 
 <br>
