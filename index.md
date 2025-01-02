@@ -12,7 +12,9 @@ style="float: right;
     width: 145px;">
 
 
-I'm a Lecturer in the Department of Economics at the [University of Oxford](https://www.economics.ox.ac.uk/people/thiago-scarelli){:target="_blank" rel="noopener"}. I'm also affiliated with the Centre for the Study of African Economies (CSAE) and with the Brazilian Centre of Analysis and Planning (CEBRAP).
+I'm a Lecturer at the [University of Oxford](https://www.economics.ox.ac.uk/people/thiago-scarelli){:target="_blank" rel="noopener"}. 
+
+I'm also affiliated with the Centre for the Study of African Economies (CSAE) and with the Brazilian Centre of Analysis and Planning (CEBRAP).
 
 My research focuses on labor market issues and other microeconomic topics in the context of developing countries.
 
