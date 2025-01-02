@@ -18,4 +18,4 @@ I'm also affiliated with the Centre for the Study of African Economies (CSAE) an
 
 My research focuses on labor market issues and other microeconomic topics in the context of developing countries.
 
-[View CV](https://thiagoscarelli.github.io/assets/pdfs/Thiago_Scarelli_CV.pdf){:target="_blank" rel="noopener"}
+[Curriculum vitae](https://thiagoscarelli.github.io/assets/pdfs/Thiago_Scarelli_CV.pdf){:target="_blank" rel="noopener"}
