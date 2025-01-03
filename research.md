@@ -15,6 +15,7 @@ This paper investigates the importance of quick remuneration for gig workers. To
 [Video](https://www.parisschoolofeconomics.eu/en/news/the-issue-of-payment-timing-by-thiago-scarelli){:target="_blank" rel="noopener"} &nbsp;\|&nbsp; 
 [Award](https://www.iadb.org/en/news/idb-young-economist-award-celebrates-excellence-development-economics-research){:target="_blank" rel="noopener"}
 
+<br>
 ---
 
 ## Published and forthcoming
@@ -40,6 +41,7 @@ To what extent is the workers' occupational category (whether someone is an empl
 [Paper](https://doi.org/10.3917/edd.362.0127){:target="_blank" rel="noopener"} &nbsp;\|&nbsp; 
 [Plot with main results](https://thiagoscarelli.github.io/assets/images/scarelli_oaw_poverty_plot.png){:target="_blank" rel="noopener"}
 
+<br>
 ---
 
 ## PhD thesis
