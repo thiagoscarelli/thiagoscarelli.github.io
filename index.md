@@ -26,6 +26,6 @@ Department of Economics <br>
 Manor Road Building <br>
 OX1 3UQ, Oxford, UK <br>
 
-first.last@economics.ox.ac.uk
+Email: {first}.{last}@economics.ox.ac.uk
 
-[tscarelli.bsky.social](https://bsky.app/profile/tscarelli.bsky.social)
+Bluesky: [tscarelli.bsky.social](https://bsky.app/profile/tscarelli.bsky.social)
