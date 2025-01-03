@@ -13,7 +13,7 @@ style="float: right;
 
 I research labor market issues and other microeconomic topics in the context of low- and middle-income countries.
 
-I am currently a Lecturer in Development Economics at the [University of Oxford](https://www.economics.ox.ac.uk/people/thiago-scarelli){:target="_blank" rel="noopener"}. I am affiliated with St Antony's College, the Centre for the Study of African Economies (CSAE), and the Brazilian Center of Analysis and Planning (CEBRAP).
+I am currently a Lecturer in Development Economics at the University of Oxford. I am affiliated with St Antony's College, the Centre for the Study of African Economies (CSAE), and the Brazilian Center of Analysis and Planning (CEBRAP).
 
 I received my PhD from the Paris School of Economics (PSE) in 2024. During my graduate studies, I was a visiting researcher in the Department of Economics at the University of Chicago.
 
