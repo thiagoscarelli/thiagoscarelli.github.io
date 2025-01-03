@@ -7,8 +7,8 @@ title: "About"
 src="/assets/images/thiago_scarelli.jpg"
 alt="Thiago Scarelli."
 style="float: right;
-	padding-left: 16px;
-    padding-bottom: 16px;
+	padding-left: 20px;
+    padding-bottom: 20px;
     width: 145px;">
 
 I research labor market issues and other microeconomic topics in the context of low- and middle-income countries.
@@ -26,6 +26,6 @@ Department of Economics <br>
 Manor Road Building <br>
 OX1 3UQ, Oxford, UK <br>
 
-Email: thiago.scarelli@economics.ox.ac.uk
+first.last@economics.ox.ac.uk
 
-Bluesky: [@tscarelli](https://bsky.app/profile/tscarelli.bsky.social){:target="_blank" rel="noopener"}
+[tscarelli.bsky.social](https://bsky.app/profile/tscarelli.bsky.social)
