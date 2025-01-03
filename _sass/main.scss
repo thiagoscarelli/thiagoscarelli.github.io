@@ -51,7 +51,8 @@ a:link, a:visited {
 
 a:hover {
     color: #2a6e7c;
-    text-decoration: underline overline;
+    text-decoration: underline;
+    text-underline-offset: 6px;
 }
 
 ul {
