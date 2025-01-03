@@ -56,3 +56,7 @@ This thesis studies the link between workers’ liquidity and their labor market
 
 [PhD thesis](https://thiagoscarelli.github.io/assets/pdfs/scarelli_phd_thesis.pdf){:target="_blank" rel="noopener"} &nbsp;\|&nbsp; 
 [Slides](https://thiagoscarelli.github.io/assets/pdfs/scarelli_thesis_slides.pdf){:target="_blank" rel="noopener"}
+
+<br>
+
+---
