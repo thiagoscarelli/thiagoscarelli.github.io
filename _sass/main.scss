@@ -44,15 +44,10 @@ p {
     padding-bottom: 0px;
 }
 
-a:link, a:visited {
-    color: #2a6e7c;
-    text-decoration: none;
-}
-
-a:hover {
+a {
     color: #2a6e7c;
     text-decoration: underline;
-    text-underline-offset: 6px;
+    text-underline-offset: 10%;
 }
 
 ul {
