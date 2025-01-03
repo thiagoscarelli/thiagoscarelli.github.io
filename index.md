@@ -19,6 +19,8 @@ I received my PhD from the **Paris School of Economics** in 2024. During my grad
 
 [Curriculum vitae](https://thiagoscarelli.github.io/assets/pdfs/Thiago_Scarelli_CV.pdf){:target="_blank" rel="noopener"}
 
+---
+
 ### Contact
 
 University of Oxford <br>
@@ -29,7 +31,5 @@ OX1 3UQ, Oxford, UK <br>
 **Email:** {first}.{last}@economics.ox.ac.uk
 
 **Bluesky:** [@tscarelli.bsky.social](https://bsky.app/profile/tscarelli.bsky.social)
-
-<br>
 
 ---
