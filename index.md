@@ -19,13 +19,13 @@ I received my PhD from the Paris School of Economics (PSE) in 2024. During my gr
 
 [Curriculum vitae](https://thiagoscarelli.github.io/assets/pdfs/Thiago_Scarelli_CV.pdf){:target="_blank" rel="noopener"}
 
-**Contact**
+### Contact
 
-University of Oxford
-Department of Economics
-Manor Road Building
-OX1 3UQ, Oxford, UK
+University of Oxford <br>
+Department of Economics <br>
+Manor Road Building <br>
+OX1 3UQ, Oxford, UK <br>
 
-thiago.scarelli@economics.ox.ac.uk
+Email: thiago.scarelli@economics.ox.ac.uk
 
-[@tscarelli.bsky.social](https://bsky.app/profile/tscarelli.bsky.social){:target="_blank" rel="noopener"}
+Bluesky: [@tscarelli](https://bsky.app/profile/tscarelli.bsky.social){:target="_blank" rel="noopener"}
