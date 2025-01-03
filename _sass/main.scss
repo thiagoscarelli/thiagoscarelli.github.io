@@ -44,13 +44,14 @@ p {
     padding-bottom: 0px;
 }
 
-a, a:link, a:visited {
+a:link, a:visited {
     color: #2a6e7c;
     text-decoration: none;
 }
 
 a:hover {
     color: #2a6e7c;
+    text-decoration: underline overline;
 }
 
 ul {
