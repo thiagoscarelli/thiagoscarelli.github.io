@@ -14,12 +14,6 @@ locale: en_US
 
 # Social
 name: Thiago Scarelli
-email: thiago.scarelli@economics.ox.ac.uk
-twitter_user: tscarelli
-github_user: thiagoscarelli
-orcid_user: '0000-0003-2014-2084'
-stackoverflow_user: 9734152/thiago
-linkedin_user: 'thiago-scarelli'
 
 # Jekyll
 permalink: /:year/:month/:title/
