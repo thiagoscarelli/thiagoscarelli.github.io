@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-## Working Papers
+## Working papers
 
 **Workers' Preferences over Payment Schedules: Evidence from Ridesharing Drivers**
 
@@ -17,7 +17,7 @@ This paper investigates the importance of quick remuneration for gig workers. To
 
 ---
 
-## Publications
+## Published and forthcoming
 
 **When You Can’t Afford to Wait for a Job: The Role of Time Discounting for Own-Account Workers in Developing Countries**, with David N. Margolis
 
@@ -42,7 +42,7 @@ To what extent is the workers' occupational category (whether someone is an empl
 
 ---
 
-## PhD Thesis
+## PhD thesis
 
 **Occupational Choices and Liquidity Constraints in Developing Countries**
 
