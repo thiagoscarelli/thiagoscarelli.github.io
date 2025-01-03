@@ -16,6 +16,7 @@ This paper investigates the importance of quick remuneration for gig workers. To
 [Award](https://www.iadb.org/en/news/idb-young-economist-award-celebrates-excellence-development-economics-research){:target="_blank" rel="noopener"}
 
 <br>
+
 ---
 
 ## Published and forthcoming
@@ -42,6 +43,7 @@ To what extent is the workers' occupational category (whether someone is an empl
 [Plot with main results](https://thiagoscarelli.github.io/assets/images/scarelli_oaw_poverty_plot.png){:target="_blank" rel="noopener"}
 
 <br>
+
 ---
 
 ## PhD thesis
