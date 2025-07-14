@@ -5,6 +5,8 @@ title: Research
 
 ## Working papers
 
+<br>
+
 **Workers' Preferences over Payment Schedules**
 
 This paper investigates the importance of quick remuneration for gig workers. To explore this question, I run a large-scale survey experiment with ridesharing drivers in Brazil. The main finding is that the median driver would be willing to forgo a third of their potential earnings to be paid on the same day of their rides, compared to the alternative of being paid a month later. Such a strong preference for quick pay seems to be associated with liquidity constraints, as drivers under heavier financial stress are more likely to prioritize same-day remuneration. I also document that priming drivers to think about their personal budget makes them more inclined to favor larger (instead of faster) payments, suggesting that pay-me-now can be a default choice for this population. These results advance the literature on job attributes by showing that payment timing is a relevant aspect of an occupation. This paper also contributes to the gig work debate by emphasizing that digital platforms are best positioned to offer agile pay schemes, which help workers address liquidity shortages in the short run but might induce poverty traps over the long run.
@@ -20,6 +22,8 @@ This paper investigates the importance of quick remuneration for gig workers. To
 ---
 
 ## Published research
+
+<br>
 
 **When You Can’t Afford to Wait for a Job: The Role of Time Discounting for Own-Account Workers in Developing Countries**
 
@@ -47,6 +51,8 @@ Scarelli, Thiago. 2022. "Occupations and Wealth in Developing Countries." _Revue
 ---
 
 ## PhD thesis
+
+<br>
 
 **Occupational Choices and Liquidity Constraints in Developing Countries**
 
