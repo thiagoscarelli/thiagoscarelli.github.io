@@ -21,11 +21,11 @@ This paper investigates the importance of quick remuneration for gig workers. To
 
 ## Published research
 
-**When You Can’t Afford to Wait for a Job: The Role of Time Discounting for Own-Account Workers in Developing Countries**, with David N. Margolis
-
-*Economic Development and Cultural Change*, 2025
+**When You Can’t Afford to Wait for a Job: The Role of Time Discounting for Own-Account Workers in Developing Countries**
 
 Frictional labor markets impose a fundamental trade-off: individuals may work on their own at any time, but can only take a potentially better-paid wage job after spending some time looking for it, suggesting that intertemporal considerations affect how people choose their occupation. We formalize this intuition under the job search framework and show that a sufficiently high subjective discount rate can justify the choice for own-account work even when it pays less than wage work. With this simple model, we estimate a lower bound for the discount rate that is implicit in the occupational choice of urban own-account workers in Brazil. We find that at least 65 percent of those workers appear to discount the future at rates superior to those available in the formal credit market, which suggests constrained occupational choice. Finally, we show that our estimated lower bound of the time preference is positively associated with food, clothing, and housing deprivation.
+
+Scarelli, Thiago, and David N. Margolis. 2025. "When You Can’t Afford to Wait for a Job: The Role of Time Discounting for Own-Account Workers in Developing Countries." _Economic Development and Cultural Change_ 73 (4): 1605–1657. [https://doi.org/10.1086/732162](https://doi.org/10.1086/732162){:target="_blank" rel="noopener"}
 
 [Paper](https://doi.org/10.1086/732162){:target="_blank" rel="noopener"} &nbsp;\|&nbsp; 
 [Poster](https://thiagoscarelli.github.io/assets/pdfs/scarelli_margolis_oaw_poster_eale_2022.pdf){:target="_blank" rel="noopener"} &nbsp;\|&nbsp; 
@@ -35,9 +35,9 @@ Frictional labor markets impose a fundamental trade-off: individuals may work on
 
 **Occupations and Wealth in Developing Countries** 
 
-*Revue d'économie du développement*, 2022
-
 To what extent is the workers' occupational category (whether someone is an employer, an employee, an own-account worker, or an unpaid family worker) associated with their material living conditions? This short paper looks at the distribution of employment categories over different wealth levels in 1,313 regions from 46 low- and middle-income countries. We find that, despite a wide diversity in the composition of those markets, own-account and family workers are consistently overrepresented among the poorest members of the employed population, as measured by household assets.
+
+Scarelli, Thiago. 2022. "Occupations and Wealth in Developing Countries." _Revue d’économie du développement_ 30 (2): 127–135. [http://doi.org/10.3917/edd.362.0127](http://doi.org/10.3917/edd.362.0127){:target="_blank" rel="noopener"}
 
 [Paper](https://doi.org/10.3917/edd.362.0127){:target="_blank" rel="noopener"} &nbsp;\|&nbsp; 
 [Plot with main results](https://thiagoscarelli.github.io/assets/images/scarelli_oaw_poverty_plot.png){:target="_blank" rel="noopener"}
@@ -50,9 +50,9 @@ To what extent is the workers' occupational category (whether someone is an empl
 
 **Occupational Choices and Liquidity Constraints in Developing Countries**
 
-*Defended at the Paris School of Economics & Université Paris 1 Panthéon-Sorbonne*
-
 This thesis studies the link between workers’ liquidity and their labor market outcomes. More precisely, we examine the hypothesis that the immediate availability of resources (or the lack thereof) may affect people’s propensity to work by themselves. Since financial constraints tend to be more widespread and more severe in poor and middle-income countries, most of our attention is dedicated to this context, with a particular focus on Brazil.
+
+Scarelli, Thiago. 2024. "Occupational Choices and Liquidity Constraints in Developing Countries." PhD diss., Paris School of Economics/Université Paris 1 Panthéon-Sorbonne.
 
 [PhD thesis](https://thiagoscarelli.github.io/assets/pdfs/scarelli_phd_thesis.pdf){:target="_blank" rel="noopener"} &nbsp;\|&nbsp; 
 [Slides](https://thiagoscarelli.github.io/assets/pdfs/scarelli_thesis_slides.pdf){:target="_blank" rel="noopener"}
