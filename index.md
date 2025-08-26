@@ -17,7 +17,7 @@ I am a Lecturer in Development Economics at the **University of Oxford**. I am a
 
 I received my PhD from the **Paris School of Economics** in 2024. During my graduate studies, I was a visiting researcher in the Department of Economics at the **University of Chicago**.
 
-[Curriculum vitae](https://thiagoscarelli.github.io/assets/pdfs/Thiago_Scarelli_CV.pdf){:target="_blank" rel="noopener"}
+[Curriculum Vitae](https://thiagoscarelli.github.io/assets/pdfs/Thiago_Scarelli_CV.pdf){:target="_blank" rel="noopener"}
 
 ### Contact
 
@@ -26,6 +26,6 @@ Department of Economics <br>
 Manor Road Building <br>
 OX1 3UQ, Oxford, UK <br>
 
-**Email:** {first}.{last}@economics.ox.ac.uk
+{first}.{last}@economics.ox.ac.uk
 
-**Bluesky:** [@tscarelli.bsky.social](https://bsky.app/profile/tscarelli.bsky.social)
+[@tscarelli.bsky.social](https://bsky.app/profile/tscarelli.bsky.social)
