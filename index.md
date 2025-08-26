@@ -21,8 +21,10 @@ I received my PhD from the **Paris School of Economics** in 2024. During my grad
 
 ### Contact
 
-University of Oxford, Department of Economics <br>
-Manor Road Building, OX1 3UQ, Oxford, UK <br>
+University of Oxford <br>
+Department of Economics <br>
+Manor Road Building <br>
+OX1 3UQ, Oxford, UK <br>
 
 **Email:** {first}.{last}@economics.ox.ac.uk
 
