@@ -15,7 +15,7 @@ Thiago Scarelli is a Lecturer in the Department of Economics at the University o
 
 He is also an associate member of St Antony’s College, a member of the Centre for the Study of African Economies, and an associated researcher at the Brazilian Center of Analysis and Planning. 
 
-His research uses field experiments and statistical models to study labor markets, social protection, and public administration in developing countries. 
+His research uses field experiments and statistical models to study labor markets, social protection mechanisms, and public administration in developing countries. 
 
 Thiago earned a Ph.D. from the Paris School of Economics in 2024.
 
