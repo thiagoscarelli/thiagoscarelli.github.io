@@ -11,7 +11,13 @@ style="float: right;
     padding-bottom: 22px;
     width: 145px;">
 
-Thiago Scarelli is a Lecturer in Development Economics at the University of Oxford. His research uses field experiments and statistical models to study labor markets, social protection, and public administration in developing countries. He is also an associate member of St Antony’s College, a member of the Centre for the Study of African Economies, and an associated researcher at the Brazilian Center of Analysis and Planning. Thiago earned a Ph.D. from the Paris School of Economics in 2024.
+Thiago Scarelli is a Lecturer in the Department of Economics at the University of Oxford. 
+
+He is also an associate member of St Antony’s College, a member of the Centre for the Study of African Economies, and an associated researcher at the Brazilian Center of Analysis and Planning. 
+
+His research uses field experiments and statistical models to study labor markets, social protection, and public administration in developing countries. 
+
+Thiago earned a Ph.D. from the Paris School of Economics in 2024.
 
 [Curriculum Vitae](https://thiagoscarelli.github.io/assets/pdfs/Thiago_Scarelli_CV.pdf){:target="_blank" rel="noopener"}
 
