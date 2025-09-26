@@ -19,8 +19,6 @@ His research uses field experiments and statistical models to study labor market
 
 Thiago earned a Ph.D. from the Paris School of Economics in 2024.
 
+**Contact:** {first}.{last}@economics.ox.ac.uk
+
 [Curriculum Vitae](https://thiagoscarelli.github.io/assets/pdfs/Thiago_Scarelli_CV.pdf){:target="_blank" rel="noopener"}
-
-### Contact
-
-{first}.{last}@economics.ox.ac.uk
