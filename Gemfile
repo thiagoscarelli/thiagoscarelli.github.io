@@ -32,7 +32,7 @@ gem "jekyll-seo-tag", "~> 2.8"
 
 gem "jekyll-redirect-from", "~> 0.16.0"
 
-gem "faraday", "~> 2.7"
+gem "faraday", "~> 2.14"
 
 gem "racc", "~> 1.6"
 
