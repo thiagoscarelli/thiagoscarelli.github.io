@@ -16,11 +16,11 @@ title: Teaching
 
 <br>
 
-**Economics of Developing Countries**\ Undergraduate level, 2025
+**Economics of Developing Countries**\ 
+Undergraduate level, 2025
 
-<br>
-
-**Quantitative Methods 1** (Graduate level, 2025)
+**Quantitative Methods 1**\
+(Graduate level, 2025)
 
 <br>
 
