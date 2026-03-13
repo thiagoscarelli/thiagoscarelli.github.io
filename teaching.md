@@ -7,6 +7,11 @@ title: Teaching
 
 **Bureaucracy and Development** <br> 
 Graduate level | 2026
+- Part 1: Recruitment
+- Part 2: Incentives
+- Part 3: Management
+- Part 4: Authority
+
 
 **Economics of Developing Countries** <br> 
 Undergraduate level | 2025
