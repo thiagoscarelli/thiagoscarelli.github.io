@@ -5,39 +5,38 @@ title: Teaching
 
 ## University of Oxford
 
-**Bureaucracy and Development**
+**> Bureaucracy and Development**
 
-Graduate level, 2026  
+_Graduate level, 2026_  
 
-Lecture materials
-- Part 1: Recruitment
-- Part 2: Incentives
-- Part 3: Management
-- Part 4: Authority
-
-<br>
-
-**Economics of Developing Countries**
-
-Undergraduate level, 2025
+- [Part 1: Recruitment](https://thiagoscarelli.github.io/assets/pdfs/Scarelli_Bureaucracy_Recruitment.pdf){:target="_blank" rel="noopener"}
+- [Part 2: Incentives](https://thiagoscarelli.github.io/assets/pdfs/Scarelli_Bureaucracy_Incentives.pdf){:target="_blank" rel="noopener"}
+- [Part 3: Management](https://thiagoscarelli.github.io/assets/pdfs/Scarelli_Bureaucracy_Management.pdf){:target="_blank" rel="noopener"}
+- [Part 4: Authority](https://thiagoscarelli.github.io/assets/pdfs/Scarelli_Bureaucracy_Authority.pdf){:target="_blank" rel="noopener"}
 
 <br>
 
-**Quantitative Methods 1**
+**> Economics of Developing Countries**
 
-Graduate level, 2025
-
-<br>
-
-**Development Economics 2** 
-
-Graduate level, 2025
+_Undergraduate level, 2025_
 
 <br>
 
-**Microeconomic Theory**
+**> Quantitative Methods 1**
 
-Graduate level, 2024, 25
+_Graduate level, 2025_
+
+<br>
+
+**> Development Economics 2** 
+
+_Graduate level, 2025_
+
+<br>
+
+**> Microeconomic Theory**
+
+_Graduate level, 2024, 25_
 
 <br>
 
@@ -45,9 +44,9 @@ Graduate level, 2024, 25
 
 ## University College London (UCL)
 
-**Public Management: Theories and Innovations** 
+**> Public Management: Theories and Innovations** 
 
-Graduate level (guest lecturer), 2026
+_Graduate level (guest lecturer), 2026_
 
 <br>
 
@@ -55,27 +54,27 @@ Graduate level (guest lecturer), 2026
 
 ## Université Paris 1 Panthéon-Sorbonne
 
-**Introduction to Econometrics**
+**> Introduction to Econometrics**
 
-Undergraduate level, 2020, 21, 24
-
-<br>
-
-**Statistics**
-
-Undergraduate level, 2019, 22, 23
+_Undergraduate level, 2020, 21, 24_
 
 <br>
 
-**Applied Econometrics**
+**> Statistics**
 
-Graduate level, 2020, 21
+_Undergraduate level, 2019, 22, 23_
 
 <br>
 
-**Descriptive Statistics**
+**> Applied Econometrics**
 
-Undergraduate level, 2020, 21
+_Graduate level, 2020, 21_
+
+<br>
+
+**> Descriptive Statistics**
+
+_Undergraduate level, 2020, 21_
 
 <br>
 
@@ -83,6 +82,6 @@ Undergraduate level, 2020, 21
 
 ## Sciences Po
 
-**Statistics Applied to Social Sciences**
+**> Statistics Applied to Social Sciences**
 
-Undergraduate level, 2020, 21
+_Undergraduate level, 2020, 21_
