@@ -5,19 +5,40 @@ title: Teaching
 
 ## University of Oxford
 
-**Bureaucracy and Development** (Graduate level, 2026)  
+**Bureaucracy and Development**
+
+Graduate level, 2026  
+
 - Part 1: Recruitment
 - Part 2: Incentives
 - Part 3: Management
 - Part 4: Authority
 
-**Economics of Developing Countries** (Undergraduate level, 2025)
+<br>
 
-**Quantitative Methods 1** (Graduate level, 2025)
+**Economics of Developing Countries**
 
-**Development Economics 2** (Graduate level, 2025)
+Undergraduate level, 2025
 
-**Microeconomic Theory** (Graduate level, 2024, 25)
+<br>
+
+**Quantitative Methods 1**
+
+Graduate level, 2025
+
+<br>
+
+**Development Economics 2** 
+
+Graduate level, 2025
+
+<br>
+
+**Microeconomic Theory**
+
+Graduate level, 2024, 25
+
+<br>
 
 ## University College London (UCL)
 
