@@ -5,8 +5,7 @@ title: Teaching
 
 ## University of Oxford
 
-**Bureaucracy and Development** <br> 
-Graduate level | 2026
+**Bureaucracy and Development** (Graduate level, 2026)  
 - Part 1: Recruitment
 - Part 2: Incentives
 - Part 3: Management
@@ -29,10 +28,7 @@ Graduate level | 2024, 25
 
 ## University College London (UCL)
 
-**Public Management: Theories and Innovations**  (guest lecturer) <br>
-Graduate level | 2026
-
-<br>
+**Public Management: Theories and Innovations**  (guest lecturer, graduate level, 2026)
 
 ## Université Paris 1 Panthéon-Sorbonne
 
