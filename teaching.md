@@ -11,20 +11,13 @@ title: Teaching
 - Part 3: Management
 - Part 4: Authority
 
+**Economics of Developing Countries** (Undergraduate level, 2025)
 
-**Economics of Developing Countries** <br> 
-Undergraduate level | 2025
+**Quantitative Methods 1** (Graduate level, 2025)
 
-**Quantitative Methods 1** <br> 
-Graduate level | 2025
+**Development Economics 2** (Graduate level, 2025)
 
-**Development Economics 2** <br> 
-Graduate level | 2025
-
-**Microeconomic Theory** <br> 
-Graduate level | 2024, 25
-
-<br>
+**Microeconomic Theory** (Graduate level, 2024, 25)
 
 ## University College London (UCL)
 
@@ -32,21 +25,14 @@ Graduate level | 2024, 25
 
 ## Université Paris 1 Panthéon-Sorbonne
 
-**Introduction to Econometrics** <br> 
-Undergraduate level | 2020, 21, 24
+**Introduction to Econometrics** (Undergraduate level, 2020, 21, 24)
 
-**Statistics** <br> 
-Undergraduate level | 2019, 22, 23
+**Statistics** (Undergraduate level, 2019, 22, 23)
 
-**Applied Econometrics** <br> 
-Graduate level | 2020, 21
+**Applied Econometrics** (Graduate level, 2020, 21)
 
-**Descriptive Statistics** <br> 
-Undergraduate level | 2020, 21
-
-<br>
+**Descriptive Statistics** (Undergraduate level, 2020, 21)
 
 ## Sciences Po
 
-**Statistics Applied to Social Sciences** <br> 
-Undergraduate level | 2020, 21
+**Statistics Applied to Social Sciences** (Undergraduate level, 2020, 21)
