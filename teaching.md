@@ -7,7 +7,7 @@ title: Teaching
 
 <br>
 
-** Bureaucracy and Development**
+**Bureaucracy and Development**
 
 Graduate level, 2026
 
@@ -18,25 +18,25 @@ Graduate level, 2026
 
 <br>
 
-** Economics of Developing Countries**
+**Economics of Developing Countries**
 
 Undergraduate level, 2025
 
 <br>
 
-** Quantitative Methods 1**
+**Quantitative Methods 1**
 
 Graduate level, 2025
 
 <br>
 
-** Development Economics 2** 
+**Development Economics 2** 
 
 Graduate level, 2025
 
 <br>
 
-** Microeconomic Theory**
+**Microeconomic Theory**
 
 Graduate level, 2024, 25
 
@@ -48,7 +48,7 @@ Graduate level, 2024, 25
 
 <br>
 
-** Public Management: Theories and Innovations** 
+**Public Management: Theories and Innovations** 
 
 Graduate level (guest lecturer), 2026
 
@@ -60,25 +60,25 @@ Graduate level (guest lecturer), 2026
 
 <br>
 
-** Introduction to Econometrics**
+**Introduction to Econometrics**
 
 Undergraduate level, 2020, 21, 24
 
 <br>
 
-** Statistics**
+**Statistics**
 
 Undergraduate level, 2019, 22, 23
 
 <br>
 
-** Applied Econometrics**
+**Applied Econometrics**
 
 Graduate level, 2020, 21
 
 <br>
 
-** Descriptive Statistics**
+**Descriptive Statistics**
 
 Undergraduate level, 2020, 21
 
@@ -90,6 +90,6 @@ Undergraduate level, 2020, 21
 
 <br>
 
-** Statistics Applied to Social Sciences**
+**Statistics Applied to Social Sciences**
 
 Undergraduate level, 2020, 21
