@@ -5,9 +5,11 @@ title: Teaching
 
 ## University of Oxford
 
-**> Bureaucracy and Development**
+<br>
 
-_Graduate level, 2026_  
+** Bureaucracy and Development**
+
+Graduate level, 2026
 
 - [Part 1: Recruitment](https://thiagoscarelli.github.io/assets/pdfs/Scarelli_Bureaucracy_Recruitment.pdf){:target="_blank" rel="noopener"}
 - [Part 2: Incentives](https://thiagoscarelli.github.io/assets/pdfs/Scarelli_Bureaucracy_Incentives.pdf){:target="_blank" rel="noopener"}
@@ -16,27 +18,27 @@ _Graduate level, 2026_
 
 <br>
 
-**> Economics of Developing Countries**
+** Economics of Developing Countries**
 
-_Undergraduate level, 2025_
-
-<br>
-
-**> Quantitative Methods 1**
-
-_Graduate level, 2025_
+Undergraduate level, 2025
 
 <br>
 
-**> Development Economics 2** 
+** Quantitative Methods 1**
 
-_Graduate level, 2025_
+Graduate level, 2025
 
 <br>
 
-**> Microeconomic Theory**
+** Development Economics 2** 
 
-_Graduate level, 2024, 25_
+Graduate level, 2025
+
+<br>
+
+** Microeconomic Theory**
+
+Graduate level, 2024, 25
 
 <br>
 
@@ -44,9 +46,11 @@ _Graduate level, 2024, 25_
 
 ## University College London (UCL)
 
-**> Public Management: Theories and Innovations** 
+<br>
 
-_Graduate level (guest lecturer), 2026_
+** Public Management: Theories and Innovations** 
+
+Graduate level (guest lecturer), 2026
 
 <br>
 
@@ -54,27 +58,29 @@ _Graduate level (guest lecturer), 2026_
 
 ## Université Paris 1 Panthéon-Sorbonne
 
-**> Introduction to Econometrics**
+<br>
 
-_Undergraduate level, 2020, 21, 24_
+** Introduction to Econometrics**
+
+Undergraduate level, 2020, 21, 24
 
 <br>
 
-**> Statistics**
+** Statistics**
 
-_Undergraduate level, 2019, 22, 23_
-
-<br>
-
-**> Applied Econometrics**
-
-_Graduate level, 2020, 21_
+Undergraduate level, 2019, 22, 23
 
 <br>
 
-**> Descriptive Statistics**
+** Applied Econometrics**
 
-_Undergraduate level, 2020, 21_
+Graduate level, 2020, 21
+
+<br>
+
+** Descriptive Statistics**
+
+Undergraduate level, 2020, 21
 
 <br>
 
@@ -82,6 +88,8 @@ _Undergraduate level, 2020, 21_
 
 ## Sciences Po
 
-**> Statistics Applied to Social Sciences**
+<br>
 
-_Undergraduate level, 2020, 21_
+** Statistics Applied to Social Sciences**
+
+Undergraduate level, 2020, 21
