@@ -7,7 +7,7 @@ title: Teaching
 
 <br>
 
-**Bureaucracy and Development** (Graduate level, 2026)
+**Bureaucracy and Development** \| Graduate level, 2026
 
 - [Part 1: Recruitment](https://thiagoscarelli.github.io/assets/pdfs/Scarelli_Bureaucracy_Recruitment.pdf){:target="_blank" rel="noopener"}
 - [Part 2: Incentives](https://thiagoscarelli.github.io/assets/pdfs/Scarelli_Bureaucracy_Incentives.pdf){:target="_blank" rel="noopener"}
@@ -16,7 +16,7 @@ title: Teaching
 
 <br>
 
-**Economics of Developing Countries** (Undergraduate level, 2025)
+**Economics of Developing Countries**\ Undergraduate level, 2025
 
 <br>
 
