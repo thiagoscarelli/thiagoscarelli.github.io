@@ -40,5 +40,5 @@ gem "nokogiri", "~> 1.19.1"
 
 gem "i18n", "~> 1.12"
 gem "minitest", "~> 5.18"
-gem "activesupport", "~> 7.0"
+gem "activesupport", "~> 7.2"
 gem "addressable", "~> 2.8"
