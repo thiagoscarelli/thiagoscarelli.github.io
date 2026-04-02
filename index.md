@@ -13,11 +13,9 @@ style="float: right;
 
 I am a Departmental Lecturer in Development Economics at the University of Oxford. 
 
-I am also affiliated with the Lab for Economics and Applied Philosophy (FGV LEAP), the Brazilian Center of Analysis and Planning (CEBRAP), the Centre for the Study of African Economies (CSAE), and the Oxford Centre for Economic and Social History. 
+I am also affiliated with the Lab for Economics and Applied Philosophy (FGV LEAP), the Brazilian Center of Analysis and Planning (CEBRAP), the Centre for the Study of African Economies (CSAE), and the IZA@LISER Network. 
 
-My research examines labor markets, social protection mechanisms, and public administration in developing countries using field experiments and statistical models.
-
-I earned a PhD from the Paris School of Economics in 2024.
+My research examines occupational choices, social protection mechanisms, and public administration in developing countries using field experiments and applied statistics.
 
 **Contact:** {first}.{last}@economics.ox.ac.uk
 
