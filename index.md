@@ -11,11 +11,7 @@ style="float: right;
     padding-bottom: 22px;
     width: 145px;">
 
-I am a Senior Lecturer in Economics at the University of Oxford. 
-
-I am also affiliated with the Lab for Economics and Applied Philosophy (FGV LEAP), the Brazilian Center of Analysis and Planning (CEBRAP), the Centre for the Study of African Economies (CSAE), and the IZA@LISER Network. 
-
-My research examines occupational choices, social protection mechanisms, and public administration in developing countries using field experiments and applied statistics.
+I am a Senior Lecturer in Economics at the University of Oxford. My research studies occupational choice, social protection, and public administration in low- and middle-income countries, using field experiments and econometric methods. I am also a research affiliate of the IZA@LISER Network, the FGV Lab for Economics and Applied Philosophy (LEAP), and the Centre for the Study of African Economies (CSAE).
 
 **Contact:** {first}.{last}@economics.ox.ac.uk
 
