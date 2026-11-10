@@ -25,7 +25,7 @@ title: Teaching
 
 <br>
 
-**Public Management: Theories and Innovations** \| Graduate level, guest lecturer, 2026
+**Public Management: Theories and Innovations** \| Graduate level (guest lecturer), 2026
 
 <br>
 
