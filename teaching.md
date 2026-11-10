@@ -9,11 +9,6 @@ title: Teaching
 
 **Bureaucracy and Development** \| Graduate level, 2026
 
-- [Part 1: Recruitment](https://thiagoscarelli.github.io/assets/pdfs/Scarelli_Bureaucracy_Recruitment.pdf){:target="_blank" rel="noopener"}
-- [Part 2: Incentives](https://thiagoscarelli.github.io/assets/pdfs/Scarelli_Bureaucracy_Incentives.pdf){:target="_blank" rel="noopener"}
-- [Part 3: Management](https://thiagoscarelli.github.io/assets/pdfs/Scarelli_Bureaucracy_Management.pdf){:target="_blank" rel="noopener"}
-- [Part 4: Authority](https://thiagoscarelli.github.io/assets/pdfs/Scarelli_Bureaucracy_Authority.pdf){:target="_blank" rel="noopener"}
-
 <br>
 
 **Economics of Developing Countries** \| Undergraduate level, 2025
