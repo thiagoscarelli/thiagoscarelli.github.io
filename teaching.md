@@ -7,17 +7,15 @@ title: Teaching
 
 <br>
 
-**Bureaucracy and Development** \| Graduate level, 2026
+**Bureaucracy and Development** \| Graduate level, since 2026
 
-<br>
+**Quantitative Methods 1** \| Graduate level, since 2025
 
-**Economics of Developing Countries** \| Undergraduate level, 2025
+**Economics of Developing Countries** \| Undergraduate level, since 2025
 
-**Quantitative Methods 1** \| Graduate level, 2025
+**Microeconomic Theory** \| Graduate level, since 2024
 
 **Development Economics 2** \| Graduate level, 2025
-
-**Microeconomic Theory** \| Graduate level, 2024, 25
 
 <br>
 
